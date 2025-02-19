@@ -617,6 +617,7 @@ int main(){
     }
     };
 
+    // 回数を無理やりしているので、時間が余裕があれば修正する
     while(gridCellIndex.size() < 3) {
         buildinitpair();
         buildnetwork();
