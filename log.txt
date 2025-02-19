@@ -1,0 +1,47 @@
+findpathcount1
+findpathcount2
+bestsarary81
+turn :0 0 funds: 18212
+findpathcount3
+turn :1 saraly: 0 funds: 13212
+turn :2 saraly: 0 funds: 13112
+turn :3 saraly: 0 funds: 13012
+turn :4 saraly: 0 funds: 12912
+turn :5 saraly: 0 funds: 12812
+turn :6 saraly: 0 funds: 12712
+turn :7 saraly: 0 funds: 12612
+turn :8 saraly: 0 funds: 12512
+turn :9 saraly: 0 funds: 12412
+turn :10 saraly: 0 funds: 12312
+turn :11 saraly: 0 funds: 12212
+turn :12 saraly: 0 funds: 12112
+turn :13 saraly: 0 funds: 12012
+turn :14 saraly: 0 funds: 11912
+turn :15 saraly: 0 funds: 11812
+turn :16 saraly: 0 funds: 11712
+turn :17 saraly: 0 funds: 11612
+turn :18 saraly: 0 funds: 11512
+turn :19 saraly: 0 funds: 11412
+turn :20 saraly: 0 funds: 11312
+turn :21 saraly: 0 funds: 11212
+turn :22 saraly: 0 funds: 11112
+turn :23 saraly: 0 funds: 11012
+turn :24 saraly: 0 funds: 10912
+turn :25 saraly: 0 funds: 10812
+turn :26 saraly: 0 funds: 10712
+turn :27 saraly: 0 funds: 10612
+turn :28 saraly: 0 funds: 10512
+turn :29 saraly: 0 funds: 10412
+turn :30 saraly: 0 funds: 10312
+turn :31 saraly: 0 funds: 10212
+turn :32 saraly: 0 funds: 10112
+turn :33 saraly: 0 funds: 10012
+turn :34 saraly: 0 funds: 9912
+turn :35 saraly: 0 funds: 9812
+turn :36 saraly: 0 funds: 9712
+turn :37 saraly: 0 funds: 9612
+turn :38 saraly: 0 funds: 9512
+turn :39 saraly: 0 funds: 9412
+turn :40 saraly: 0 funds: 9312
+turn :41 saraly: 0 funds: 9212
+turn :42 0 funds: 9112
