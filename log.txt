@@ -3,45 +3,11017 @@ findpathcount2
 bestsarary81
 turn :0 0 funds: 18212
 findpathcount3
-turn :1 saraly: 0 funds: 13212
-turn :2 saraly: 0 funds: 13112
-turn :3 saraly: 0 funds: 13012
-turn :4 saraly: 0 funds: 12912
-turn :5 saraly: 0 funds: 12812
-turn :6 saraly: 0 funds: 12712
-turn :7 saraly: 0 funds: 12612
-turn :8 saraly: 0 funds: 12512
-turn :9 saraly: 0 funds: 12412
-turn :10 saraly: 0 funds: 12312
-turn :11 saraly: 0 funds: 12212
-turn :12 saraly: 0 funds: 12112
-turn :13 saraly: 0 funds: 12012
-turn :14 saraly: 0 funds: 11912
-turn :15 saraly: 0 funds: 11812
-turn :16 saraly: 0 funds: 11712
-turn :17 saraly: 0 funds: 11612
-turn :18 saraly: 0 funds: 11512
-turn :19 saraly: 0 funds: 11412
-turn :20 saraly: 0 funds: 11312
-turn :21 saraly: 0 funds: 11212
-turn :22 saraly: 0 funds: 11112
-turn :23 saraly: 0 funds: 11012
-turn :24 saraly: 0 funds: 10912
-turn :25 saraly: 0 funds: 10812
-turn :26 saraly: 0 funds: 10712
-turn :27 saraly: 0 funds: 10612
-turn :28 saraly: 0 funds: 10512
-turn :29 saraly: 0 funds: 10412
-turn :30 saraly: 0 funds: 10312
-turn :31 saraly: 0 funds: 10212
-turn :32 saraly: 0 funds: 10112
-turn :33 saraly: 0 funds: 10012
-turn :34 saraly: 0 funds: 9912
-turn :35 saraly: 0 funds: 9812
-turn :36 saraly: 0 funds: 9712
-turn :37 saraly: 0 funds: 9612
-turn :38 saraly: 0 funds: 9512
-turn :39 saraly: 0 funds: 9412
-turn :40 saraly: 0 funds: 9312
-turn :41 saraly: 0 funds: 9212
+turn :1 0 funds: 13212
+turn :2 0 funds: 13112
+turn :3 0 funds: 13012
+turn :4 0 funds: 12912
+turn :5 0 funds: 12812
+turn :6 0 funds: 12712
+turn :7 0 funds: 12612
+turn :8 0 funds: 12512
+turn :9 0 funds: 12412
+turn :10 0 funds: 12312
+turn :11 0 funds: 12212
+turn :12 0 funds: 12112
+turn :13 0 funds: 12012
+turn :14 0 funds: 11912
+turn :15 0 funds: 11812
+turn :16 0 funds: 11712
+turn :17 0 funds: 11612
+turn :18 0 funds: 11512
+turn :19 0 funds: 11412
+turn :20 0 funds: 11312
+turn :21 0 funds: 11212
+turn :22 0 funds: 11112
+turn :23 0 funds: 11012
+turn :24 0 funds: 10912
+turn :25 0 funds: 10812
+turn :26 0 funds: 10712
+turn :27 0 funds: 10612
+turn :28 0 funds: 10512
+turn :29 0 funds: 10412
+turn :30 0 funds: 10312
+turn :31 0 funds: 10212
+turn :32 0 funds: 10112
+turn :33 0 funds: 10012
+turn :34 0 funds: 9912
+turn :35 0 funds: 9812
+turn :36 0 funds: 9712
+turn :37 0 funds: 9612
+turn :38 0 funds: 9512
+turn :39 0 funds: 9412
+turn :40 0 funds: 9312
+turn :41 0 funds: 9212
 turn :42 0 funds: 9112
+findpathcount4
+findpathcount5
+findpathcount6
+nextstation73
+nextpoint 36 15
+findpathcount7
+turn :43 81 funds: 4193
+turn :44 81 funds: 4174
+turn :45 81 funds: 4155
+turn :46 81 funds: 4136
+turn :47 81 funds: 4117
+turn :48 81 funds: 4098
+turn :49 81 funds: 4079
+turn :50 81 funds: 4060
+turn :51 81 funds: 4041
+turn :52 81 funds: 4022
+turn :53 81 funds: 4003
+turn :54 81 funds: 3984
+turn :55 81 funds: 3965
+turn :56 81 funds: 3946
+turn :57 81 funds: 3927
+turn :58 81 funds: 3908
+turn :59 81 funds: 3889
+turn :60 81 funds: 3870
+turn :61 81 funds: 3851
+turn :62 81 funds: 3832
+turn :63 81 funds: 3813
+turn :64 81 funds: 3794
+turn :65 81 funds: 3775
+turn :66 81 funds: 3756
+turn :67 81 funds: 3737
+turn :68 81 funds: 3718
+turn :69 81 funds: 3699
+turn :70 81 funds: 3680
+turn :71 81 funds: 3661
+turn :72 81 funds: 3642
+turn :73 81 funds: 3623
+turn :74 81 funds: 3704
+turn :75 81 funds: 3785
+turn :76 81 funds: 3866
+turn :77 81 funds: 3947
+turn :78 81 funds: 4028
+turn :79 81 funds: 4109
+turn :80 81 funds: 4190
+turn :81 81 funds: 4271
+turn :82 81 funds: 4352
+turn :83 81 funds: 4433
+turn :84 81 funds: 4514
+turn :85 81 funds: 4595
+turn :86 81 funds: 4676
+turn :87 81 funds: 4757
+turn :88 81 funds: 4838
+turn :89 81 funds: 4919
+turn :90 81 funds: 5000
+findpathcount8
+findpathcount9
+nextstation30
+nextpoint 18 4
+findpathcount10
+findpathcount11
+turn :91 126 funds: 126
+turn :92 126 funds: 152
+turn :93 126 funds: 178
+turn :94 126 funds: 204
+turn :95 126 funds: 230
+turn :96 126 funds: 256
+turn :97 126 funds: 282
+turn :98 126 funds: 308
+turn :99 126 funds: 334
+turn :100 126 funds: 360
+turn :101 126 funds: 386
+turn :102 126 funds: 412
+turn :103 126 funds: 438
+turn :104 126 funds: 464
+turn :105 126 funds: 490
+turn :106 126 funds: 516
+turn :107 126 funds: 542
+turn :108 126 funds: 568
+turn :109 126 funds: 594
+turn :110 126 funds: 620
+turn :111 126 funds: 646
+turn :112 126 funds: 672
+turn :113 126 funds: 698
+turn :114 126 funds: 724
+turn :115 126 funds: 750
+turn :116 126 funds: 776
+turn :117 126 funds: 802
+turn :118 126 funds: 828
+turn :119 126 funds: 854
+turn :120 126 funds: 980
+turn :121 126 funds: 1106
+turn :122 126 funds: 1232
+turn :123 126 funds: 1358
+turn :124 126 funds: 1484
+turn :125 126 funds: 1610
+turn :126 126 funds: 1736
+turn :127 126 funds: 1862
+turn :128 126 funds: 1988
+turn :129 126 funds: 2114
+turn :130 126 funds: 2240
+turn :131 126 funds: 2366
+turn :132 126 funds: 2492
+turn :133 126 funds: 2618
+turn :134 126 funds: 2744
+turn :135 126 funds: 2870
+turn :136 126 funds: 2996
+turn :137 126 funds: 3122
+turn :138 126 funds: 3248
+turn :139 126 funds: 3374
+turn :140 126 funds: 3500
+turn :141 126 funds: 3626
+turn :142 126 funds: 3752
+turn :143 126 funds: 3878
+turn :144 126 funds: 4004
+turn :145 126 funds: 4130
+turn :146 126 funds: 4256
+turn :147 126 funds: 4382
+turn :148 126 funds: 4508
+turn :149 126 funds: 4634
+turn :150 126 funds: 4760
+turn :151 126 funds: 4886
+turn :152 126 funds: 5012
+findpathcount12
+nextstation1
+nextpoint 3 6
+findpathcount13
+findpathcount14
+findpathcount15
+turn :153 160 funds: 172
+turn :154 160 funds: 232
+turn :155 160 funds: 292
+turn :156 160 funds: 352
+turn :157 160 funds: 412
+turn :158 160 funds: 472
+turn :159 160 funds: 532
+turn :160 160 funds: 592
+turn :161 160 funds: 652
+turn :162 160 funds: 712
+turn :163 160 funds: 772
+turn :164 160 funds: 832
+turn :165 160 funds: 892
+turn :166 160 funds: 952
+turn :167 160 funds: 1012
+turn :168 160 funds: 1072
+turn :169 160 funds: 1132
+turn :170 160 funds: 1292
+turn :171 160 funds: 1452
+turn :172 160 funds: 1612
+turn :173 160 funds: 1772
+turn :174 160 funds: 1932
+turn :175 160 funds: 2092
+turn :176 160 funds: 2252
+turn :177 160 funds: 2412
+turn :178 160 funds: 2572
+turn :179 160 funds: 2732
+turn :180 160 funds: 2892
+turn :181 160 funds: 3052
+turn :182 160 funds: 3212
+turn :183 160 funds: 3372
+turn :184 160 funds: 3532
+turn :185 160 funds: 3692
+turn :186 160 funds: 3852
+turn :187 160 funds: 4012
+turn :188 160 funds: 4172
+turn :189 160 funds: 4332
+turn :190 160 funds: 4492
+turn :191 160 funds: 4652
+turn :192 160 funds: 4812
+turn :193 160 funds: 4972
+turn :194 160 funds: 5132
+findpathcount16
+findpathcount17
+nextstation43
+nextpoint 22 19
+findpathcount18
+findpathcount19
+findpathcount20
+findpathcount21
+turn :195 188 funds: 320
+turn :196 188 funds: 408
+turn :197 188 funds: 496
+turn :198 188 funds: 584
+turn :199 188 funds: 672
+turn :200 188 funds: 760
+turn :201 188 funds: 848
+turn :202 188 funds: 936
+turn :203 188 funds: 1024
+turn :204 188 funds: 1112
+turn :205 188 funds: 1200
+turn :206 188 funds: 1288
+turn :207 188 funds: 1376
+turn :208 188 funds: 1464
+turn :209 188 funds: 1552
+turn :210 188 funds: 1640
+turn :211 188 funds: 1728
+turn :212 188 funds: 1816
+turn :213 188 funds: 1904
+turn :214 188 funds: 1992
+turn :215 188 funds: 2080
+turn :216 188 funds: 2168
+turn :217 188 funds: 2256
+turn :218 188 funds: 2444
+turn :219 188 funds: 2632
+turn :220 188 funds: 2820
+turn :221 188 funds: 3008
+turn :222 188 funds: 3196
+turn :223 188 funds: 3384
+turn :224 188 funds: 3572
+turn :225 188 funds: 3760
+turn :226 188 funds: 3948
+turn :227 188 funds: 4136
+turn :228 188 funds: 4324
+turn :229 188 funds: 4512
+turn :230 188 funds: 4700
+turn :231 188 funds: 4888
+turn :232 188 funds: 5076
+findpathcount22
+nextstation42
+nextpoint 23 11
+findpathcount23
+findpathcount24
+findpathcount25
+findpathcount26
+findpathcount27
+turn :233 210 funds: 286
+turn :234 210 funds: 396
+turn :235 210 funds: 506
+turn :236 210 funds: 616
+turn :237 210 funds: 726
+turn :238 210 funds: 836
+turn :239 210 funds: 946
+turn :240 210 funds: 1056
+turn :241 210 funds: 1166
+turn :242 210 funds: 1276
+turn :243 210 funds: 1386
+turn :244 210 funds: 1496
+turn :245 210 funds: 1706
+turn :246 210 funds: 1916
+turn :247 210 funds: 2126
+turn :248 210 funds: 2336
+turn :249 210 funds: 2546
+turn :250 210 funds: 2756
+turn :251 210 funds: 2966
+turn :252 210 funds: 3176
+turn :253 210 funds: 3386
+turn :254 210 funds: 3596
+turn :255 210 funds: 3806
+turn :256 210 funds: 4016
+turn :257 210 funds: 4226
+turn :258 210 funds: 4436
+turn :259 210 funds: 4646
+turn :260 210 funds: 4856
+turn :261 210 funds: 5066
+findpathcount28
+nextstation35
+nextpoint 15 27
+findpathcount29
+findpathcount30
+findpathcount31
+findpathcount32
+findpathcount33
+findpathcount34
+turn :262 224 funds: 290
+turn :263 224 funds: 414
+turn :264 224 funds: 538
+turn :265 224 funds: 662
+turn :266 224 funds: 786
+turn :267 224 funds: 910
+turn :268 224 funds: 1034
+turn :269 224 funds: 1158
+turn :270 224 funds: 1382
+turn :271 224 funds: 1606
+turn :272 224 funds: 1830
+turn :273 224 funds: 2054
+turn :274 224 funds: 2278
+turn :275 224 funds: 2502
+turn :276 224 funds: 2726
+turn :277 224 funds: 2950
+turn :278 224 funds: 3174
+turnnextstation38
+nextpoint 18 40
+findpathcount126
+findpathcount127
+findpathcount128
+findpathcount129
+findpathcount130
+findpathcount131
+findpathcount132
+turn :213 1175 funds: 27173
+turn :214 1175 funds: 28248
+turn :215 1175 funds: 29323
+turn :216 1175 funds: 30398
+turn :217 1175 funds: 31473
+turn :218 1175 funds: 32548
+turn :219 1175 funds: 33623
+turn :220 1175 funds: 34698
+turn :221 1175 funds: 35773
+turn :222 1175 funds: 36848
+turn :223 1175 funds: 37923
+turn :224 1175 funds: 38998
+turn :225 1175 funds: 40073
+turn :226 1175 funds: 41148
+turn :227 1175 funds: 42223
+turn :228 1175 funds: 43298
+turn :229 1175 funds: 44373
+turn :230 1175 funds: 45448
+turn :231 1175 funds: 46523
+turn :232 1175 funds: 47598
+turn :233 1175 funds: 48673
+findpathcount133
+findpathcount134
+findpathcount135
+findpathcount136
+nextstation77
+nextpoint 38 35
+findpathcount137
+findpathcount138
+findpathcount139
+findpathcount140
+findpathcount141
+findpathcount142
+findpathcount143
+findpathcount144
+turn :234 1279 funds: 44952
+turn :235 1279 funds: 46131
+turn :236 1279 funds: 47310
+turn :237 1279 funds: 48489
+turn :238 1279 funds: 49668
+turn :239 1279 funds: 50847
+findpathcount145
+findpathcount146
+findpathcount147
+nextstation18
+nextpoint 5 44
+findpathcount148
+findpathcount149
+findpathcount150
+findpathcount151
+findpathcount152
+findpathcount153
+findpathcount154
+findpathcount155
+findpathcount156
+turn :240 1380 funds: 47227
+turn :241 1380 funds: 48507
+findpathcount157
+findpathcount158
+findpathcount159
+nextstation58
+nextpoint 26 43
+findpathcount160
+findpathcount161
+findpathcount162
+findpathcount163
+findpathcount164
+findpathcount165
+findpathcount166
+findpathcount167
+findpathcount168
+findpathcount169
+turn :242 1503 funds: 45010
+turn :243 1503 funds: 46413
+turn :244 1503 funds: 47816
+turn :245 1503 funds: 49219
+turn :246 1503 funds: 50622
+turn :247 1503 funds: 52025
+turn :248 1503 funds: 53428
+turn :249 1503 funds: 54831
+turn :250 1503 funds: 56234
+turn :251 1503 funds: 57637
+turn :252 1503 funds: 59040
+findpathcount170
+findpathcount171
+findpathcount172
+nextstation72
+nextpoint 37 12
+findpathcount173
+findpathcount174
+findpathcount175
+findpathcount176
+findpathcount177
+findpathcount178
+findpathcount179
+findpathcount180
+findpathcount181
+findpathcount182
+findpathcount183
+turn :253 1593 funds: 55633
+turn :254 1593 funds: 57126
+turn :255 1593 funds: 58619
+turn :256 1593 funds: 60112
+turn :257 1593 funds: 61605
+turn :258 1593 funds: 63098
+turn :259 1593 funds: 64591
+turn :260 1593 funds: 66084
+turn :261 1593 funds: 67577
+turn :262 1593 funds: 69070
+findpathcount184
+findpathcount185
+findpathcount186
+findpathcount187
+nextstation59
+nextpoint 27 45
+findpathcount188
+findpathcount189
+findpathcount190
+findpathcount191
+findpathcount192
+findpathcount193
+findpathcount194
+findpathcount195
+findpathcount196
+findpathcount197
+findpathcount198
+findpathcount199
+turn :263 1700 funds: 65770
+turn :264 1700 funds: 67370
+turn :265 1700 funds: 68970
+findpathcount200
+findpathcount201
+findpathcount202
+findpathcount203
+nextstation65
+nextpoint 31 29
+findpathcount204
+findpathcount205
+findpathcount206
+findpathcount207
+findpathcount208
+findpathcount209
+findpathcount210
+findpathcount211
+findpathcount212
+findpathcount213
+findpathcount214
+findpathcount215
+findpathcount216
+turn :266 1808 funds: 65778
+turn :267 1808 funds: 67486
+turn :268 1808 funds: 69194
+turn :269 1808 funds: 70902
+turn :270 1808 funds: 72610
+turn :271 1808 funds: 74318
+turn :272 1808 funds: 76026
+turn :273 1808 funds: 77734
+findpathcount217
+nextstation6
+nextpoint 3 32
+findpathcount218
+findpathcount219
+findpathcount220
+findpathcount221
+findpathcount222
+findpathcount223
+findpathcount224
+findpathcount225
+findpathcount226
+findpathcount227
+findpathcount228
+findpathcount229
+findpathcount230
+findpathcount231
+turn :274 1894 funds: 74628
+turn :275 1894 funds: 76422
+turn :276 1894 funds: 78216
+turn :277 1894 funds: 80010
+turn :278 1894 funds: 81804
+turn :279 1894 funds: 83598
+turn :280 1894 funds: 85392
+turn :281 1894 funds: 87186
+turn :282 1894 funds: 88980
+turn :283 1894 funds: 90774
+findpathcount232
+findpathcount233
+findpathcount234
+findpathcount235
+findpathcount236
+nextstation67
+nextpoint 32 36
+findpathcount237
+findpathcount238
+findpathcount239
+findpathcount240
+findpathcount241
+findpathcount242
+findpathcount243
+findpathcount244
+findpathcount245
+findpathcount246
+findpathcount247
+findpathcount248
+findpathcount249
+findpathcount250
+findpathcount251
+turn :284 2002 funds: 87776
+turn :285 2002 funds: 89678
+turn :286 2002 funds: 91580
+turn :287 2002 funds: 93482
+turn :288 2002 funds: 95384
+turn :289 2002 funds: 97286
+turn :290 2002 funds: 99188
+turn :291 2002 funds: 101090
+findpathcount252
+findpathcount253
+findpathcount254
+findpathcount255
+findpathcount256
+nextstation39
+nextpoint 15 47
+findpathcount257
+findpathcount258
+findpathcount259
+findpathcount260
+findpathcount261
+findpathcount262
+findpathcount263
+findpathcount264
+findpathcount265
+findpathcount266
+findpathcount267
+findpathcount268
+findpathcount269
+findpathcount270
+findpathcount271
+findpathcount272
+turn :292 2134 funds: 98224
+turn :293 2134 funds: 100258
+turn :294 2134 funds: 102292
+turn :295 2134 funds: 104326
+turn :296 2134 funds: 106360
+turn :297 2134 funds: 108394
+turn :298 2134 funds: 110428
+turn :299 2134 funds: 112462
+turn :300 2134 funds: 114496
+turn :301 2134 funds: 116530
+turn :302 2134 funds: 118564
+turn :303 2134 funds: 120598
+turn :304 2134 funds: 122632
+turn :305 2134 funds: 124666
+findpathcount273
+findpathcount274
+findpathcount275
+findpathcount276
+nextstation34
+nextpoint 16 23
+findpathcount277
+findpathcount278
+findpathcount279
+findpathcount280
+findpathcount281
+findpathcount282
+findpathcount283
+findpathcount284
+findpathcount285
+findpathcount286
+findpathcount287
+findpathcount288
+findpathcount289
+findpathcount290
+findpathcount291
+findpathcount292
+findpathcount293
+turn :306 2235 funds: 121901
+turn :307 2235 funds: 124036
+turn :308 2235 funds: 126171
+turn :309 2235 funds: 128306
+turn :310 2235 funds: 130441
+turn :311 2235 funds: 132576
+turn :312 2235 funds: 134711
+turn :313 2235 funds: 136846
+turn :314 2235 funds: 138981
+turn :315 2235 funds: 141116
+turn :316 2235 funds: 143251
+turn :317 2235 funds: 145386
+turn :318 2235 funds: 147521
+turn :319 2235 funds: 149656
+turn :320 2235 funds: 151791
+findpathcount294
+findpathcount295
+findpathcount296
+findpathcount297
+findpathcount298
+findpathcount299
+nextstation94
+nextpoint 45 22
+findpathcount300
+findpathcount301
+findpathcount302
+findpathcount303
+findpathcount304
+findpathcount305
+findpathcount306
+findpathcount307
+findpathcount308
+findpathcount309
+findpathcount310
+findpathcount311
+findpathcount312
+findpathcount313
+findpathcount314
+findpathcount315
+findpathcount316
+findpathcount317
+turn :321 2327 funds: 149118
+turn :322 2327 funds: 151345
+turn :323 2327 funds: 153572
+turn :324 2327 funds: 155799
+turn :325 2327 funds: 158026
+turn :326 2327 funds: 160253
+turn :327 2327 funds: 162480
+turn :328 2327 funds: 164707
+turn :329 2327 funds: 166934
+turn :330 2327 funds: 169161
+turn :331 2327 funds: 171388
+turn :332 2327 funds: 173615
+turn :333 2327 funds: 175842
+turn :334 2327 funds: 178069
+findpathcount318
+findpathcount319
+findpathcount320
+findpathcount321
+findpathcount322
+nextstation46
+nextpoint 24 33
+findpathcount323
+findpathcount324
+findpathcount325
+findpathcount326
+findpathcount327
+findpathcount328
+findpathcount329
+findpathcount330
+findpathcount331
+findpathcount332
+findpathcount333
+findpathcount334
+findpathcount335
+findpathcount336
+findpathcount337
+findpathcount338
+findpathcount339
+findpathcount340
+findpathcount341
+turn :335 2421 funds: 175490
+turn :336 2421 funds: 177811
+turn :337 2421 funds: 180132
+findpathcount342
+findpathcount343
+findpathcount344
+findpathcount345
+findpathcount346
+findpathcount347
+nextstation93
+nextpoint 45 15
+findpathcount348
+findpathcount349
+findpathcount350
+findpathcount351
+findpathcount352
+findpathcount353
+findpathcount354
+findpathcount355
+findpathcount356
+findpathcount357
+findpathcount358
+findpathcount359
+findpathcount360
+findpathcount361
+findpathcount362
+findpathcount363
+findpathcount364
+findpathcount365
+findpathcount366
+turn :338 2513 funds: 177645
+turn :339 2513 funds: 180058
+turn :340 2513 funds: 182471
+turn :341 2513 funds: 184884
+turn :342 2513 funds: 187297
+turn :343 2513 funds: 189710
+turn :344 2513 fundsnextstation78
+nextpoint 35 43
+findpathcount421
+findpathcount422
+findpathcount423
+findpathcount424
+findpathcount425
+findpathcount426
+findpathcount427
+findpathcount428
+findpathcount429
+findpathcount430
+findpathcount431
+findpathcount432
+findpathcount433
+findpathcount434
+findpathcount435
+findpathcount436
+findpathcount437
+findpathcount438
+findpathcount439
+findpathcount440
+findpathcount441
+findpathcount442
+turn :303 4677 funds: 400762
+turn :304 4677 funds: 405339
+turn :305 4677 funds: 409916
+turn :306 4677 funds: 414493
+turn :307 4677 funds: 419070
+turn :308 4677 funds: 423647
+findpathcount443
+findpathcount444
+findpathcount445
+findpathcount446
+findpathcount447
+findpathcount448
+findpathcount449
+findpathcount450
+findpathcount451
+findpathcount452
+findpathcount453
+nextstation66
+nextpoint 30 34
+findpathcount454
+findpathcount455
+findpathcount456
+findpathcount457
+findpathcount458
+findpathcount459
+findpathcount460
+findpathcount461
+findpathcount462
+findpathcount463
+findpathcount464
+findpathcount465
+findpathcount466
+findpathcount467
+findpathcount468
+findpathcount469
+findpathcount470
+findpathcount471
+findpathcount472
+findpathcount473
+findpathcount474
+findpathcount475
+findpathcount476
+turn :309 4845 funds: 423492
+turn :310 4845 funds: 428237
+turn :311 4845 funds: 432982
+turn :312 4845 funds: 437727
+turn :313 4845 funds: 442472
+findpathcount477
+findpathcount478
+findpathcount479
+findpathcount480
+findpathcount481
+findpathcount482
+findpathcount483
+findpathcount484
+findpathcount485
+findpathcount486
+findpathcount487
+nextstation90
+nextpoint 46 3
+findpathcount488
+findpathcount489
+findpathcount490
+findpathcount491
+findpathcount492
+findpathcount493
+findpathcount494
+findpathcount495
+findpathcount496
+findpathcount497
+findpathcount498
+findpathcount499
+findpathcount500
+findpathcount501
+findpathcount502
+findpathcount503
+findpathcount504
+findpathcount505
+findpathcount506
+findpathcount507
+findpathcount508
+findpathcount509
+findpathcount510
+turn :314 5017 funds: 442489
+turn :315 5017 funds: 447406
+turn :316 5017 funds: 452323
+turn :317 5017 funds: 457240
+turn :318 5017 funds: 462157
+turn :319 5017 funds: 467074
+findpathcount511
+findpathcount512
+findpathcount513
+findpathcount514
+findpathcount515
+findpathcount516
+nextstation25
+nextpoint 11 27
+findpathcount517
+findpathcount518
+findpathcount519
+findpathcount520
+findpathcount521
+findpathcount522
+findpathcount523
+findpathcount524
+findpathcount525
+findpathcount526
+findpathcount527
+findpathcount528
+findpathcount529
+findpathcount530
+findpathcount531
+findpathcount532
+findpathcount533
+findpathcount534
+findpathcount535
+findpathcount536
+findpathcount537
+findpathcount538
+findpathcount539
+findpathcount540
+turn :320 5211 funds: 467285
+turn :321 5211 funds: 472396
+turn :322 5211 funds: 477507
+turn :323 5211 funds: 482618
+turn :324 5211 funds: 487729
+turn :325 5211 funds: 492840
+turn :326 5211 funds: 497951
+turn :327 5211 funds: 503062
+findpathcount541
+findpathcount542
+findpathcount543
+findpathcount544
+findpathcount545
+findpathcount546
+findpathcount547
+nextstation53
+nextpoint 26 17
+findpathcount548
+findpathcount549
+findpathcount550
+findpathcount551
+findpathcount552
+findpathcount553
+findpathcount554
+findpathcount555
+findpathcount556
+findpathcount557
+findpathcount558
+findpathcount559
+findpathcount560
+findpathcount561
+findpathcount562
+findpathcount563
+findpathcount564
+findpathcount565
+findpathcount566
+findpathcount567
+findpathcount568
+findpathcount569
+findpathcount570
+findpathcount571
+turn :328 5418 funds: 503480
+turn :329 5418 funds: 508798
+turn :330 5418 funds: 514116
+turn :331 5418 funds: 519434
+turn :332 5418 funds: 524752
+turn :333 5418 funds: 530070
+turn :334 5418 funds: 535388
+turn :335 5418 funds: 540706
+turn :336 5418 funds: 546024
+findpathcount572
+findpathcount573
+findpathcount574
+findpathcount575
+findpathcount576
+findpathcount577
+nextstation64
+nextpoint 31 23
+findpathcount578
+findpathcount579
+findpathcount580
+findpathcount581
+findpathcount582
+findpathcount583
+findpathcount584
+findpathcount585
+findpathcount586
+findpathcount587
+findpathcount588
+findpathcount589
+findpathcount590
+findpathcount591
+findpathcount592
+findpathcount593
+findpathcount594
+findpathcount595
+findpathcount596
+findpathcount597
+findpathcount598
+findpathcount599
+findpathcount600
+findpathcount601
+findpathcount602
+turn :337 5607 funds: 546631
+turn :338 5607 funds: 552138
+turn :339 5607 funds: 557645
+turn :340 5607 funds: 563152
+turn :341 5607 funds: 568659
+turn :342 5607 funds: 574166
+turn :343 5607 funds: 579673
+turn :344 5607 funds: 585180
+turn :345 5607 funds: 590687
+turn :346 5607 funds: 596194
+findpathcount603
+findpathcount604
+findpathcount605
+findpathcount606
+findpathcount607
+nextstation75
+nextpoint 35 25
+findpathcount608
+findpathcount609
+findpathcount610
+findpathcount611
+findpathcount612
+findpathcount613
+findpathcount614
+findpathcount615
+findpathcount616
+findpathcount617
+findpathcount618
+findpathcount619
+findpathcount620
+findpathcount621
+findpathcount622
+findpathcount623
+findpathcount624
+findpathcount625
+findpathcount626
+findpathcount627
+findpathcount628
+findpathcount629
+findpathcount630
+findpathcount631
+findpathcount632
+findpathcount633
+turn :347 5780 funds: 596974
+turn :348 5780 funds: 602654
+turn :349 5780 funds: 608334
+turn :350 5780 funds: 614014
+turn :351 5780 funds: 619694
+turn :352 5780 funds: 625374
+findpathcount634
+findpathcount635
+findpathcount636
+findpathcount637
+nextstation44
+nextpoint 22 20
+findpathcount638
+findpathcount639
+findpathcount640
+findpathcount641
+findpathcount642
+findpathcount643
+findpathcount644
+findpathcount645
+findpathcount646
+findpathcount647
+findpathcount648
+findpathcount649
+findpathcount650
+findpathcount651
+findpathcount652
+findpathcount653
+findpathcount654
+findpathcount655
+findpathcount656
+findpathcount657
+findpathcount658
+findpathcount659
+findpathcount660
+findpathcount661
+findpathcount662
+findpathcount663
+findpathcount664
+turn :353 5949 funds: 626323
+turn :354 5949 funds: 632172
+turn :355 5949 funds: 638021
+turn :356 5949 funds: 643870
+turn :357 5949 funds: 649719
+turn :358 5949 funds: 655568
+turn :359 5949 funds: 661417
+findpathcount665
+findpathcount666
+findpathcount667
+findpathcount6nexnextstation72
+nextpoint 35 11
+findpathcount669
+findpathcount670
+findpathcount671
+findpathcount672
+findpathcount673
+findpathcount674
+findpathcount675
+findpathcount676
+findpathcount677
+findpathcount678
+findpathcount679
+findpathcount680
+findpathcount681
+findpathcount682
+findpathcount683
+findpathcount684
+findpathcount685
+findpathcount686
+findpathcount687
+findpathcount688
+findpathcount689
+findpathcount690
+findpathcount691
+findpathcount692
+findpathcount693
+findpathcount694
+findpathcount695
+findpathcount696
+turn :360 6111 funds: 662528
+turn :361 6111 funds: 668539
+turn :362 6111 funds: 674550
+turn :363 6111 funds: 680561
+turn :364 6111 funds: 686572
+turn :365 6111 funds: 692583
+turn :366 6111 funds: 698594
+turn :367 6111 funds: 704605
+turn :368 6111 funds: 71nextstation10
+nextpoint 5 3
+findpathcount714
+findpathcount715
+findpanextstation29
+nextpoint 11 45
+path2 is empty, turn :370
+nt719
+findpathcount720
+findpathcount721
+findpathcount722
+findpathcount723
+findpathcount724
+findpathcount725
+findpathcount726
+findpathcount727
+findpathcount728
+findpathcount729
+findpathcount730
+findpathcount731
+findpathcount732
+findpathcount733
+findpathcount734
+findpathcount735
+findpathcount736
+findpathcount737
+findpathcount738
+findpathcount739
+findpathcount740
+findpathcount741
+findpathcount742
+findpathcount743
+findpathcount744
+findpathcount745
+findpathcount746
+findpathcount747
+turn :353 6318 funds: 811477
+turn :354 6318 funds: 817695
+turn :355 6318 funds: 823913
+turn :356 6318 funds: 830131
+turn :357 6318 funds: 836349
+nextstation44
+nextpoint 20 23
+findpathcount748
+findpathcount749
+findpathcount750
+findpathcount751
+findpathcount752
+findpathcount753
+findpathcount754
+findpathcount755
+findpathcount756
+findpathcount757
+findpathcount758
+findpathcount759
+findpathcount760
+findpathcount761
+findpathcount762
+findpathcount763
+findpathcount764
+findpathcount765
+findpathcount766
+findpathcount767
+findpathcount768
+findpathcount769
+findpathcount770
+findpathcount771
+findpathcount772
+findpathcount773
+findpathcount774
+findpathcount775
+findpathcount776
+findpathcount777
+findpathcount778
+findpathcount779
+findpathcount780
+findpathcount781
+findpathcount782
+turn :358 6473 funds: 837822
+turn :359 6473 funds: 844195
+turn :360 6473 funds: 850568
+turn :361 6473 funds: 856941
+turn :362 6473 funds: 863314
+turn :363 6473 funds: 869687
+turn :364 6473 funds: 876060
+turn :365 6473 funds: 882433
+turn :366 6473 funds: 888806
+turn :367 6473 funds: 895179
+turn :368 6473 funds: 901552
+nextstation11
+nextpoint 7 7
+findpathcount783
+findpathcount784
+findpathcount785
+findpathcount786
+findpathcount787
+findpathcount788
+findpathcount789
+findpathcount790
+findpathcount791
+findpathcount792
+findpathcount793
+findpathcount794
+findpathcount795
+findpathcount796
+findpathcount797
+findpathcount798
+findpathcount799
+findpathcount800
+findpathcount801
+findpathcount802
+findpathcount803
+findpathcount804
+findpathcount805
+findpathcount806
+findpathcount807
+findpathcount808
+findpathcount809
+findpathcount810
+findpathcount811
+findpathcount812
+findpathcount813
+findpathcount814
+findpathcount815
+findpathcount816
+findpathcount817
+findpathcount818
+turn :369 6622 funds: 903174
+turn :370 6622 funds: 909696
+turn :371 6622 funds: 916218
+turn :372 6622 funds: 922740
+turn :373 6622 funds: 929262
+turn :374 6622 funds: 935784
+nextstation36
+nextpoint 15 32
+findpathcount819
+findpathcount820
+findpathcount821
+findpathcount822
+findpathcount823
+findpathcount824
+findpathcount825
+findpathcount826
+findpathcount827
+findpathcount828
+findpathcount829
+findpathcount830
+findpathcount831
+findpathcount832
+findpathcount833
+findpathcount834
+findpathcount835
+findpathcount836
+findpathcount837
+findpathcount838
+findpathcount839
+findpathcount840
+findpathcount841
+findpathcount842
+findpathcount843
+findpathcount844
+findpathcount845
+findpathcount846
+findpathcount847
+findpathcount848
+findpathcount849
+findpathcount850
+findpathcount851
+findpathcount852
+findpathcount853
+findpathcount854
+findpathcount855
+turn :375 6763 funds: 937547
+turn :376 6763 funds: 944210
+turn :377 6763 funds: 950873
+turn :378 6763 funds: 957536
+turn :379 6763 funds: 964199
+turn :380 6763 funds: 970862
+turn :381 6763 funds: 977525
+nextstation81
+nextpoint 41 6
+findpathcount856
+findpathcount857
+findpathcount858
+findpathcount859
+findpathcount860
+findpathcount861
+findpathcount862
+findpathcount863
+findpathcount864
+findpathcount865
+findpathcount866
+findpathcount867
+findpathcount868
+findpathcount869
+findpathcount870
+findpathcount871
+findpathcount872
+findpathcount873
+findpathcount874
+findpathcount875
+findpathcount876
+findpathcount877
+findpathcount878
+findpathcount879
+findpathcount880
+findpathcount881
+findpathcount882
+findpathcount883
+findpathcount884
+findpathcount885
+findpathcount886
+findpathcount887
+findpathcount888
+findpathcount889
+findpathcount890
+findpathcount891
+findpathcount892
+findpathcount893
+turn :382 6903 funds: 979428
+turn :383 6903 funds: 986231
+turn :384 6903 funds: 993034
+turn :385 6903 funds: 999837
+turn :386 6903 funds: 1006640
+turn :387 6903 funds: 1013443
+turn :388 6903 funds: 1020246
+turn :389 6903 funds: 1027049
+turn :390 6903 funds: 1033852
+turn :391 6903 funds: 1040655
+nextstation23
+nextpoint 11 19
+findpathcount894
+findpathcount895
+findpathcount896
+findpathcount897
+findpathcount898
+findpathcount899
+findpathcount900
+findpathcount901
+findpathcount902
+findpathcount903
+findpathcount904
+findpathcount905
+findpathcount906
+findpathcount907
+findpathcount908
+findpathcount909
+findpathcount910
+findpathcount911
+findpathcount912
+findpathcount913
+findpathcount914
+findpathcount915
+findpathcount916
+findpathcount917
+findpathcount918
+findpathcount919
+findpathcount920
+findpathcount921
+findpathcount922
+findpathcount923
+findpathcount924
+findpathcount925
+findpathcount926
+findpathcount927
+findpathcount928
+findpathcount929
+findpathcount930
+findpathcount931
+findpathcount932
+turn :392 7042 funds: 1042697
+turn :393 7042 funds: 1049639
+turn :394 7042 funds: 1056581
+turn :395 7042 funds: 1063523
+nextstation17
+nextpoint 9 35
+findpathcount933
+findpathcount934
+findpathcount935
+findpathcount936
+findpathcount937
+findpathcount938
+findpathcount939
+findpathcount940
+findpathcount941
+findpathcount942
+findpathcount943
+findpathcount944
+findpathcount945
+findpathcount946
+findpathcount947
+findpathcount948
+findpathcount949
+findpathcount950
+findpathcount951
+findpathcount952
+findpathcount953
+findpathcount954
+findpathcount955
+findpathcount956
+findpathcount957
+findpathcount958
+findpathcount959
+findpathcount960
+findpathcount961
+findpathcount962
+findpathcount963
+findpathcount964
+findpathcount965
+findpathcount966
+findpathcount967
+findpathcount968
+findpathcount969
+findpathcount970
+findpathcount971
+turn :396 7177 funds: 1065700
+turn :397 7177 funds: 1072777
+turn :398 7177 funds: 1079854
+turn :399 7177 funds: 1086931
+turn :400 7177 funds: 1094008
+turn :401 7177 funds: 1101085
+nextstation95
+nextpoint 45 28
+findpathcount972
+findpathcount973
+findpathcount974
+findpathcount975
+findpathcount976
+findpathcount977
+findpathcount978
+findpathcount979
+findpathcount980
+findpathcount981
+findpathcount982
+findpathcount983
+findpathcount984
+findpathcount985
+findpathcount986
+findpathcount987
+findpathcount988
+findpathcount989
+findpathcount990
+findpathcount991
+findpathcount992
+findpathcount993
+findpathcount994
+findpathcount995
+findpathcount996
+findpathcount997
+findpathcount998
+findpathcount999
+findpathcount1000
+findpathcount1001
+findpathcount1002
+findpathcount1003
+findpathcount1004
+findpathcount1005
+findpathcount1006
+findpathcount1007
+findpathcount1008
+findpathcount1009
+findpathcount1010
+findpathcount1011
+turn :402 7311 funds: 1103396
+turn :403 7311 funds: 1110607
+turn :404 7311 funds: 1117818
+turn :405 7311 funds: 1125029
+turn :406 7311 funds: 1132240
+turn :407 7311 funds: 1139451
+turn :408 7311 funds: 1146662
+turn :409 7311 funds: 1153873
+Timeout in finish5 loop at turn: 410
+Timeout in finish5 loop at turn: 410
+10
+findpathcount911
+findpathcount912
+turn :488 4141 funds: 559606
+turn :489 4141 funds: 563647
+turn :490 4141 funds: 567688
+turn :491 4141 funds: 571729
+turn :492 4141 funds: 575770
+turn :493 4141 funds: 579811
+findpathcount913
+findpathcount914
+findpathcount915
+findpathcount916
+findpathcount917
+findpathcount918
+nextstation90
+nextpoint 46 3
+findpathcount919
+findpathcount920
+findpathcount921
+findpathcount922
+findpathcount923
+findpathcount924
+findpathcount925
+findpathcount926
+findpathcount927
+findpathcount928
+findpathcount929
+findpathcount930
+findpathcount931
+findpathcount932
+findpathcount933
+findpathcount934
+findpathcount935
+findpathcount936
+findpathcount937
+findpathcount938
+findpathcount939
+findpathcount940
+findpathcount941
+findpathcount942
+findpathcount943
+findpathcount944
+findpathcount945
+findpathcount946
+findpathcount947
+findpathcount948
+findpathcount949
+findpathcount950
+findpathcount951
+findpathcount952
+findpathcount953
+turn :494 4212 funds: 579023
+turn :495 4212 funds: 583135
+turn :496 4212 funds: 587247
+turn :497 4212 funds: 591359
+turn :498 4212 funds: 595471
+turn :499 4212 funds: 599583
+findpathcount954
+findpathcount955
+findpathcount956
+findpathcount957
+findpathcount958
+nextstation89
+nextpoint 40 45
+findpathcount959
+findpathcount960
+findpathcount961
+findpathcount962
+findpathcount963
+findpathcount964
+findpathcount965
+findpathcount966
+findpathcount967
+findpathcount968
+findpathcount969
+findpathcount970
+findpathcount971
+findpathcount972
+findpathcount973
+findpathcount974
+findpathcount975
+findpathcount976
+findpathcount977
+findpathcount978
+findpathcount979
+findpathcount980
+findpathcount981
+findpathcount982
+findpathcount983
+findpathcount984
+findpathcount985
+findpathcount986
+findpathcount987
+findpathcount988
+findpathcount989
+findpathcount990
+findpathcount991
+findpathcount992
+findpathcount993
+findpathcount994
+turn :500 4351 funds: 598934
+turn :501 4351 funds: 603185
+turn :502 4351 funds: 607436
+turn :503 4351 funds: 611687
+turn :504 4351 funds: 615938
+findpathcount995
+findpathcount996
+findpathcount997
+findpathcount998
+nextstation41
+nextpoint 20 6
+findpathcount999
+findpathcount1000
+findpathcount1001
+findpathcount1002
+findpathcount1003
+findpathcount1004
+findpathcount1005
+findpathcount1006
+findpathcount1007
+findpathcount1008
+findpathcount1009
+findpathcount1010
+findpathcount1011
+findpathcount1012
+findpathcount1013
+findpathcount1014
+findpathcount1015
+findpathcount1016
+findpathcount1017
+findpathcount1018
+findpathcount1019
+findpathcount1020
+findpathcount1021
+findpathcount1022
+findpathcount1023
+findpathcount1024
+findpathcount1025
+findpathcount1026
+findpathcount1027
+findpathcount1028
+findpathcount1029
+findpathcount1030
+findpathcount1031
+findpathcount1032
+findpathcount1033
+findpathcount1034
+findpathcount1035
+turn :505 4453 funds: 615391
+turn :506 4453 funds: 619744
+turn :507 4453 funds: 624097
+turn :508 4453 funds: 628450
+turn :509 4453 funds: 632803
+turn :510 4453 funds: 637156
+turn :511 4453 funds: 641509
+turn :512 4453 funds: 645862
+turn :513 4453 funds: 650215
+findpathcount1036
+findpathcount1037
+findpathcount1038
+findpathcount1039
+nextstation97
+nextpoint 45 35
+findpathcount1040
+findpathcount1041
+findpathcount1042
+findpathcount1043
+findpathcount1044
+findpathcount1045
+findpathcount1046
+findpathcount1047
+findpathcount1048
+findpathcount1049
+findpathcount1050
+findpathcount1051
+findpathcount1052
+findpathcount1053
+findpathcount1054
+findpathcount1055
+findpathcount1056
+findpathcount1057
+findpathcount1058
+findpathcount1059
+findpathcount1060
+findpathcount1061
+findpathcount1062
+findpathcount1063
+findpathcount1064
+findpathcount1065
+findpathcount1066
+findpathcount1067
+findpathcount1068
+findpathcount1069
+findpathcount1070
+findpathcount1071
+findpathcount1072
+findpathcount1073
+findpathcount1074
+findpathcount1075
+findpathcount1076
+findpathcount1077
+turn :514 4524 funds: 649739
+turn :515 4524 funds: 654163
+turn :516 4524 funds: 658587
+turn :517 4524 funds: 663011
+turn :518 4524 funds: 667435
+turn :519 4524 funds: 671859
+turn :520 4524 funds: 676283
+turn :521 4524 funds: 680707
+turn :522 4524 funds: 685131
+turn :523 4524 funds: 689555
+findpathcount1078
+findpathcount1079
+findpathcount1080
+nextstation15
+nextpoint 7 29
+findpathcount1081
+findpathcount1082
+findpathcount1083
+findpathcount1084
+findpathcount1085
+findpathcount1086
+findpathcount1087
+findpathcount1088
+findpathcount1089
+findpathcount1090
+findpathcount1091
+findpathcount1092
+findpathcount1093
+findpathcount1094
+findpathcount1095
+findpathcount1096
+findpathcount1097
+findpathcount1098
+findpathcount1099
+findpathcount1100
+findpathcount1101
+findpathcount1102
+findpathcount1103
+findpathcount1104
+findpathcount1105
+findpathcount1106
+findpathcount1107
+findpathcount1108
+findpathcount1109
+findpathcount1110
+findpathcount1111
+findpathcount1112
+findpathcount1113
+findpathcount1114
+findpathcount1115
+findpathcount1116
+findpathcount1117
+findpathcount1118
+turn :524 4621 funds: 689176
+turn :525 4621 funds: 693697
+turn :526 4621 funds: 698218
+turn :527 4621 funds: 702739
+turn :528 4621 funds: 707260
+findpathcount1119
+findpathcount1120
+findpathcount1121
+nextstation33
+nextpoint 16 15
+findpathcount1122
+findpathcount1123
+findpathcount1124
+findpathcount1125
+findpathcount1126
+findpathcount1127
+findpathcount1128
+findpathcount1129
+findpathcount1130
+findpathcount1131
+findpathcount1132
+findpathcount1133
+findpathcount1134
+findpathcount1135
+findpathcount1136
+findpathcount1137
+findpathcount1138
+findpathcount1139
+findpathcount1140
+findpathcount1141
+findpathcount1142
+findpathcount1143
+findpathcount1144
+findpathcount1145
+findpathcount1146
+findpathcount1147
+findpathcount1148
+findpathcount1149
+findpathcount1150
+findpathcount1151
+findpathcount1152
+findpathcount1153
+findpathcount1154
+findpathcount1155
+findpathcount1156
+findpathcount1157
+findpathcount1158
+findpathcount1159
+turn :529 4688 funds: 706948
+turn :530 4688 funds: 711536
+turn :531 4688 funds: 716124
+turn :532 4688 funds: 720712
+turn :533 4688 funds: 725300
+turn :534 4688 funds: 729888
+turn :535 4688 funds: 734476
+turn :536 4688 funds: 739064
+turn :537 4688 funds: 743652
+turn :538 4688 funds: 748240
+turn :539 4688 funds: 752828
+turn :540 4688 funds: 757416
+turn :541 4688 funds: 762004
+findpathcount1160
+findpathcount1161
+findpathcount1162
+findpathcount1163
+nextstation84
+nextpoint 41 24
+findpathcount1164
+findpathcount1165
+findpathcount1166
+findpathcount1167
+findpathcount1168
+findpathcount1169
+findpathcount1170
+findpathcount1171
+findpathcount1172
+findpathcount1173
+findpathcount1174
+findpathcount1175
+findpathcount1176
+findpathcount1177
+findpathcount1178
+findpathcount1179
+findpathcount1180
+findpathcount1181
+findpathcount1182
+findpathcount1183
+findpathcount1184
+findpathcount1185
+findpathcount1186
+findpathcount1187
+findpathcount1188
+findpathcount1189
+findpathcount1190
+findpathcount1191
+findpathcount1192
+findpathcount1193
+findpathcount1194
+findpathcount1195
+findpathcount1196
+findpathcount1197
+findpathcount1198
+findpathcount1199
+findpathcount1200
+findpathcount1201
+findpathcount1202
+turn :542 4752 funds: 761756
+turn :543 4752 funds: 766408
+turn :544 4752 funds: 771060
+turn :545 4752 funds: 775712
+turn :546 4752 funds: 780364
+turn :547 4752 funds: 785016
+findpathcount1203
+findpathcount1204
+findpathcount1205
+nextstation51
+nextpoint 27 5
+findpathcount1206
+findpathcount1207
+findpathcount1208
+findpathcount1209
+findpathcount1210
+findpathcount1211
+findpathcount1212
+findpathcount1213
+findpathcount1214
+findpathcount1215
+findpathcount1216
+findpathcount1217
+findpathcount1218
+findpathcount1219
+findpathcount1220
+findpathcount1221
+findpathcount1222
+findpathcount1223
+findpathcount1224
+findpathcount1225
+findpathcount1226
+findpathcount1227
+findpathcount1228
+findpathcount1229
+findpathcount1230
+findpathcount1231
+findpathcount1232
+findpathcount1233
+findpathcount1234
+findpathcount1235
+findpathcount1236
+findpathcount1237
+findpathcount1238
+findpathcount1239
+findpathcount1240
+findpathcount1241
+findpathcount1242
+findpathcount1243
+findpathcount1244
+findpathcount1245
+turn :548 4815 funds: 784831
+turn :549 4815 funds: 789546
+turn :550 4815 funds: 794261
+turn :551 4815 funds: 798976
+turn :552 4815 funds: 803691
+turn :553 4815 funds: 808406
+turn :554 4815 funds: 813121
+turn :555 4815 funds: 817836
+findpathcount1246
+findpathcount1247
+nextstation14
+nextpoint 5 24
+findpathcount1248
+findpathcount1249
+findpathcount1250
+findpathcount1251
+findpathcount1252
+findpathcount1253
+findpathcount1254
+findpathcount1255
+findpathcount1256
+findpathcount1257
+findpathcount1258
+findpathcount1259
+findpathcount1260
+findpathcount1261
+findpathcount1262
+findpathcount1263
+findpathcount1264
+findpathcount1265
+findpathcount1266
+findpathcount1267
+findpathcount1268
+findpathcount1269
+findpathcount1270
+findpathcount1271
+findpathcount1272
+findpathcount1273
+findpathcount1274
+findpathcount1275
+findpathcount1276
+findpathcount1277
+findpathcount1278
+findpathcount1279
+findpathcount1280
+findpathcount1281
+findpathcount1282
+findpathcount1283
+findpathcount1284
+findpathcount1285
+findpathcount1286
+turn :556 4870 funds: 817706
+turn :557 4870 funds: 822476
+turn :558 4870 funds: 827246
+turn :559 4870 funds: 832016
+turn :560 4870 funds: 836786
+turn :561 4870 funds: 841556
+turn :562 4870 funds: 846326
+findpathcount1287
+findpathcount1288
+findpathcount1289
+findpathcount1290
+findpathcount1291
+findpathcount1292
+nextstation98
+nextpoint 49 44
+findpathcount1293
+findpathcount1294
+findpathcount1295
+findpathcount1296
+findpathcount1297
+findpathcount1298
+findpathcount1299
+findpathcount1300
+findpathcount1301
+findpathcount1302
+findpathcount1303
+findpathcount1304
+findpathcount1305
+findpathcount1306
+findpathcount1307
+findpathcount1308
+findpathcount1309
+findpathcount1310
+findpathcount1311
+findpathcount1312
+findpathcount1313
+findpathcount1314
+findpathcount1315
+findpathcount1316
+findpathcount1317
+findpathcount1318
+findpathcount1319
+findpathcount1320
+findpathcount1321
+findpathcount1322
+findpathcount1323
+findpathcount1324
+findpathcount1325
+findpathcount1326
+findpathcount1327
+findpathcount1328
+findpathcount1329
+findpathcount1330
+findpathcount1331
+findpathcount1332
+turn :563 4924 funds: 846250
+turn :564 4924 funds: 851074
+turn :565 4924 funds: 855898
+turn :566 4924 funds: 860722
+turn :567 4924 funds: 865546
+turn :568 4924 funds: 870370
+turn :569 4924 funds: 875194
+turn :570 4924 funds: 880018
+turn :571 4924 funds: 884842
+turn :572 4924 funds: 889666
+findpathcount1333
+findpathcount1334
+findpathcount1335
+findpathcount1336
+nextstation73
+nextpoint 37 17
+findpathcount1337
+findpathcount1338
+findpathcount1339
+findpathcount1340
+findpathcount1341
+findpathcount1342
+findpathcount1343
+findpathcount1344
+findpathcount1345
+findpathcount1346
+findpathcount1347
+findpathcount1348
+findpathcount1349
+findpathcount1350
+findpathcount1351
+turn :573 4975 funds: 889641
+turn :574 4975 funds: 894516
+turn :575 4975 funds: 899391
+turn :576 4975 funds: 904266
+turn :577 4975 funds: 909141
+findpathcount1352
+findpathcount1353
+findpathcount1354
+findpathcount1355
+nextstation23
+nextpoint 10 18
+findpathcount1356
+findpathcount1357
+findpathcount1358
+findpathcount1359
+findpathcount1360
+findpathcount1361
+findpathcount1362
+findpathcount1363
+findpathcount1364
+findpathcount1365
+findpathcount1366
+findpathcount1367
+findpathcount1368
+findpathcount1369
+findpathcount1370
+findpathcount1371
+findpathcount1372
+findpathcount1373
+findpathcount1374
+findpathcount1375
+findpathcount1376
+findpathcount1377
+findpathcount1378
+findpathcount1379
+findpathcount1380
+findpathcount1381
+turn :578 5025 funds: 909166
+turn :579 5025 funds: 914091
+turn :580 5025 funds: 919016
+turn :581 5025 funds: 923941
+turn :582 5025 funds: 928866
+turn :583 5025 funds: 933791
+turn :584 5025 funds: 938716
+turn :585 5025 funds: 943641
+turn :586 5025 funds: 948566
+findpathcount1382
+findpathcount1383
+findpathcount1384
+findpathcount1385
+nextstation43
+nextpoint 24 18
+findpathcount1386
+findpathcount1387
+findpathcount1388
+findpathcount1389
+findpathcount1390
+findpathcount1391
+findpathcount1392
+findpathcount1393
+findpathcount1394
+findpathcount1395
+findpathcount1396
+findpathcount1397
+findpathcount1398
+findpathcount1399
+findpathcount1400
+findpathcount1401
+findpathcount1402
+findpathcount1403
+findpathcount1404
+findpathcount1405
+findpathcount1406
+findpathcount1407
+findpathcount1408
+findpathcount1409
+findpathcount1410
+findpathcount1411
+findpathcount1412
+turn :587 5084 funds: 948650
+turn :588 5084 funds: 953634
+turn :589 5084 funds: 958618
+findpathcount1413
+findpathcount1414
+nextstation21
+nextpoint 14 9
+findpathcount1415
+findpathcount1416
+findpathcount1417
+findpathcount1418
+findpathcount1419
+findpathcount1420
+findpathcount1421
+findpathcount1422
+findpathcount1423
+findpathcount1424
+findpathcount1425
+findpathcount1426
+findpathcount1427
+findpathcount1428
+findpathcount1429
+findpathcount1430
+findpathcount1431
+findpathcount1432
+findpathcount1433
+findpathcount1434
+findpathcount1435
+findpathcount1436
+findpathcount1437
+findpathcount1438
+findpathcount1439
+findpathcount1440
+findpathcount1441
+findpathcount1442
+turn :590 5132 funds: 958750
+turn :591 5132 funds: 963782
+turn :592 5132 funds: 968814
+turn :593 5132 funds: 973846
+turn :594 5132 funds: 978878
+turn :595 5132 funds: 983910
+turn :596 5132 funds: 988942
+turn :597 5132 funds: 993974
+findpathcount1443
+findpathcount1444
+findpathcount1445
+findpathcount1446
+nextstation69
+nextpoint 30 45
+findpathcount1447
+findpathcount1448
+findpathcount1449
+findpathcount1450
+findpathcount1451
+findpathcount1452
+findpathcount1453
+findpathcount1454
+findpathcount1455
+findpathcount1456
+findpathcount1457
+findpathcount1458
+findpathcount1459
+findpathcount1460
+findpathcount1461
+findpathcount1462
+findpathcount1463
+findpathcount1464
+findpathcount1465
+findpathcount1466
+findpathcount1467
+findpathcount1468
+findpathcount1469
+findpathcount1470
+findpathcount1471
+findpathcount1472
+findpathcount1473
+findpathcount1474
+findpathcount1475
+turn :598 5195 funds: 994169
+turn :599 5195 funds: 999264
+turn :600 5195 funds: 1004359
+findpathcount1476
+findpathcount1477
+findpathcount1478
+nextstation35
+nextpoint 16 26
+findpathcount1479
+findpathcount1480
+findpathcount1481
+findpathcount1482
+findpathcount1483
+findpathcount1484
+findpathcount1485
+findpathcount1486
+findpathcount1487
+findpathcount1488
+findpathcount1489
+findpathcount1490
+findpathcount1491
+findpathcount1492
+findpathcount1493
+findpathcount1494
+findpathcount1495
+findpathcount1496
+findpathcount1497
+findpathcount1498
+findpathcount1499
+findpathcount1500
+findpathcount1501
+findpathcount1502
+findpathcount1503
+findpathcount1504
+findpathcount1505
+findpathcount1506
+findpathcount1507
+findpathcount1508
+turn :601 5243 funds: 1004602
+turn :602 5243 funds: 1009745
+turn :603 5243 funds: 1014888
+findpathcount1509
+findpathcount1510
+findpathcount1511
+findpathcount1512
+nextstation78
+nextpoint 35 41
+findpathcount1513
+findpathcount1514
+findpathcount1515
+findpathcount1516
+findpathcount1517
+findpathcount1518
+findpathcount1519
+findpathcount1520
+findpathcount1521
+findpathcount1522
+findpathcount1523
+findpathcount1524
+findpathcount1525
+findpathcount1526
+findpathcount1527
+findpathcount1528
+findpathcount1529
+findpathcount1530
+findpathcount1531
+findpathcount1532
+findpathcount1533
+findpathcount1534
+findpathcount1535
+findpathcount1536
+findpathcount1537
+findpathcount1538
+findpathcount1539
+findpathcount1540
+findpathcount1541
+findpathcount1542
+findpathcount1543
+turn :604 5289 funds: 1015177
+turn :605 5289 funds: 1020366
+turn :606 5289 funds: 1025555
+findpathcount1544
+findpathcount1545
+findpathcount1546
+nextstation52
+nextpoint 25 11
+findpathcount1547
+findpathcount1548
+findpathcount1549
+findpathcount1550
+findpathcount1551
+findpathcount1552
+findpathcount1553
+findpathcount1554
+findpathcount1555
+findpathcount1556
+findpathcount1557
+findpathcount1558
+findpathcount1559
+findpathcount1560
+findpathcount1561
+findpathcount1562
+findpathcount1563
+findpathcount1564
+findpathcount1565
+findpathcount1566
+findpathcount1567
+findpathcount1568
+findpathcount1569
+findpathcount1570
+findpathcount1571
+findpathcount1572
+findpathcount1573
+findpathcount1574
+findpathcount1575
+findpathcount1576
+findpathcount1577
+findpathcount1578
+turn :607 5357 funds: 1025912
+turn :608 5357 funds: 1031169
+turn :609 5357 funds: 1036426
+turn :610 5357 funds: 1041683
+turn :611 5357 funds: 1046940
+turn :612 5357 funds: 1052197
+turn :613 5357 funds: 1057454
+turn :614 5357 funds: 1062711
+findpathcount1579
+findpathcount1580
+nextstation40
+nextpoint 20 3
+findpathcount1581
+findpathcount1582
+turn :615 5400 funds: 1063111
+turn :616 5400 funds: 1068411
+turn :617 5400 funds: 1073711
+findpathcount1583
+findpathcount1584
+nextstation49
+nextpoint 20 45
+path2 is empty, turn :618
+1344nextstation25
+nextpoint 10 25
+findpathcount1612
+findpathcount1613
+findpathcount1614
+findpathcount1615
+findpathcount1616
+findpathcount1617
+findpathcount1618
+findpathcount1619
+findpathcount1620
+findpathcount1621
+findpathcount1622
+findpathcount1623
+findpathcount1624
+findpathcount1625
+findpathcount16nextstation17
+nextpoint 7 39
+findpathcount1355
+findpathcount1356
+findpathcount1357
+findpathcount1358
+findpathcount1359
+findpathcount1360
+findpathcount1361
+turn :792 4769 funds: 988473
+turn :793 4769 funds: 993142
+turn :794 4769 funds: 997811
+turn :795 4769 funds: 1002480
+nextstation87
+nextpoint 40 39
+findpathcount1362
+findpathcount1363
+findpathcount1364
+turn :796 4788 funds: 1002268
+nextstation-1
+nextpoint 0 0
+49
+findpathcount1650
+findpathcount1651
+findpathcount1652
+findpathcount1653
+findpathcount1654
+findpathcount1655
+findpathcount1656
+turn :614 4536 funds: 743448
+turn :615 4536 funds: 747884
+turn :616 4536 funds: 752320
+turn :617 4536 funds: 756756
+nextstation0
+nextpoint 0 3
+findpathcount1657
+findpathcount1658
+findpathcount1659
+findpathcount1660
+findpathcount1661
+findpathcount1662
+findpathcount1663
+findpathcount1664
+findpathcount1665
+findpathcount1666
+findpathcount1667
+findpathcount1668
+findpathcount1669
+findpathcount1670
+findpathcount1671
+findpathcount1672
+findpathcount1673
+findpathcount1674
+findpathcount1675
+findpathcount1676
+findpathcount1677
+findpathcount1678
+findpathcount1679
+findpathcount1680
+findpathcount1681
+findpathcount1682
+findpathcount1683
+findpathcount1684
+findpathcount1685
+findpathcount1686
+findpathcount1687
+findpathcount1688
+findpathcount1689
+findpathcount1690
+findpathcount1691
+findpathcount1692
+findpathcount1693
+findpathcount1694
+findpathcount1695
+findpathcount1696
+findpathcount1697
+findpathcount1698
+findpathcount1699
+findpathcount1700
+findpathcount1701
+findpathcount1702
+turn :618 4581 funds: 756337
+turn :619 4581 funds: 760818
+turn :620 4581 funds: 765299
+turn :621 4581 funds: 769780
+turn :622 4581 funds: 774261
+turn :623 4581 funds: 778742
+turn :624 4581 funds: 783223
+turn :625 4581 funds: 787704
+nextstation87
+nextpoint 41 35
+findpathcount1703
+findpathcount1704
+findpathcount1705
+findpathcount1706
+findpathcount1707
+findpathcount1708
+findpathcount1709
+findpathcount1710
+findpathcount1711
+findpathcount1712
+findpathcount1713
+findpathcount1714
+findpathcount1715
+findpathcount1716
+findpathcount1717
+findpathcount1718
+findpathcount1719
+findpathcount1720
+findpathcount1721
+findpathcount1722
+findpathcount1723
+findpathcount1724
+findpathcount1725
+findpathcount1726
+findpathcount1727
+findpathcount1728
+findpathcount1729
+findpathcount1730
+findpathcount1731
+findpathcount1732
+findpathcount1733
+findpathcount1734
+findpathcount1735
+findpathcount1736
+findpathcount1737
+findpathcount1738
+findpathcount1739
+findpathcount1740
+findpathcount1741
+findpathcount1742
+turn :626 4609 funds: 787313
+turn :627 4609 funds: 791822
+turn :628 4609 funds: 796331
+turn :629 4609 funds: 800840
+turn :630 4609 funds: 805349
+turn :631 4609 funds: 809858
+turn :632 4609 funds: 814367
+turn :633 4609 funds: 818876
+turn :634 4609 funds: 823385
+turn :635 4609 funds: 827894
+turn :636 4609 funds: 832403
+turn :637 4609 funds: 836912
+turn :638 4609 funds: 841421
+turn :639 4609 funds: 845930
+turn :640 4609 funds: 850439
+nextstation20
+nextpoint 13 4
+findpathcount1743
+findpathcount1744
+findpathcount1745
+findpathcount1746
+findpathcount1747
+findpathcount1748
+findpathcount1749
+findpathcount1750
+findpathcount1751
+findpathcount1752
+findpathcount1753
+findpathcount1754
+findpathcount1755
+findpathcount1756
+findpathcount1757
+findpathcount1758
+findpathcount1759
+findpathcount1760
+findpathcount1761
+findpathcount1762
+findpathcount1763
+findpathcount1764
+findpathcount1765
+findpathcount1766
+findpathcount1767
+findpathcount1768
+findpathcount1769
+findpathcount1770
+findpathcount1771
+findpathcount1772
+findpathcount1773
+findpathcount1774
+findpathcount1775
+findpathcount1776
+findpathcount1777
+findpathcount1778
+findpathcount1779
+findpathcount1780
+findpathcount1781
+findpathcount1782
+findpathcount1783
+turn :641 4635 funds: 850074
+nextstation24
+nextpoint 10 23
+findpathcount1784
+findpathcount1785
+findpathcount1786
+findpathcount1787
+findpathcount1788
+findpathcount1789
+findpathcount1790
+findpathcount1791
+findpathcount1792
+findpathcount1793
+findpathcount1794
+findpathcount1795
+findpathcount1796
+findpathcount1797
+findpathcount1798
+findpathcount1799
+findpathcount1800
+findpathcount1801
+findpathcount1802
+findpathcount1803
+findpathcount1804
+findpathcount1805
+findpathcount1806
+findpathcount1807
+findpathcount1808
+findpathcount1809
+findpathcount1810
+findpathcount1811
+findpathcount1812
+findpathcount1813
+findpathcount1814
+findpathcount1815
+findpathcount1816
+findpathcount1817
+findpathcount1818
+findpathcount1819
+findpathcount1820
+findpathcount1821
+findpathcount1822
+findpathcount1823
+findpathcount1824
+findpathcount1825
+turn :642 4658 funds: 849732
+turn :643 4658 funds: 854290
+nextstation41
+nextpoint 24 9
+findpathcount1826
+findpathcount1827
+findpathcount1828
+findpathcount1829
+findpathcount1830
+findpathcount1831
+findpathcount1832
+findpathcount1833
+findpathcount1834
+findpathcount1835
+findpathcount1836
+findpathcount1837
+findpathcount1838
+findpathcount1839
+findpathcount1840
+findpathcount1841
+findpathcount1842
+findpathcount1843
+findpathcount1844
+findpathcount1845
+findpathcount1846
+findpathcount1847
+findpathcount1848
+findpathcount1849
+findpathcount1850
+findpathcount1851
+findpathcount1852
+findpathcount1853
+findpathcount1854
+findpathcount1855
+findpathcount1856
+findpathcount1857
+findpathcount1858
+findpathcount1859
+findpathcount1860
+findpathcount1861
+findpathcount1862
+findpathcount1863
+findpathcount1864
+findpathcount1865
+findpathcount1866
+findpathcount1867
+turn :644 4681 funds: 853971
+turn :645 4681 funds: 858552
+nextstation97
+nextpoint 45 35
+findpathcount1868
+findpathcount1869
+findpathcount1870
+findpathcount1871
+findpathcount1872
+findpathcount1873
+findpathcount1874
+findpathcount1875
+findpathcount1876
+findpathcount1877
+findpathcount1878
+findpathcount1879
+findpathcount1880
+findpathcount1881
+findpathcount1882
+findpathcount1883
+findpathcount1884
+findpathcount1885
+findpathcount1886
+findpathcount1887
+findpathcount1888
+findpathcount1889
+findpathcount1890
+findpathcount1891
+findpathcount1892
+findpathcount1893
+findpathcount1894
+findpathcount1895
+findpathcount1896
+findpathcount1897
+findpathcount1898
+findpathcount1899
+findpathcount1900
+findpathcount1901
+findpathcount1902
+findpathcount1903
+findpathcount1904
+findpathcount1905
+findpathcount1906
+findpathcount1907
+findpathcount1908
+findpathcount1909
+findpathcount1910
+turn :646 4698 funds: 858250
+turn :647 4698 funds: 862848
+turn :648 4698 funds: 867446
+turn :649 4698 funds: 872044
+nextstation-1
+nextpoint 0 5396
+extstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+nextstation-1
+nextpoint 0 0
+Timeout in finish5 loop at turn: 73

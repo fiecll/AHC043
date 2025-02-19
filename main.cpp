@@ -40,7 +40,8 @@ struct Person {
     int ekix, ekiy;  // 家側最寄り駅
     int aimx, aimy;  // 職場側最寄り駅
     bool cango = false; // 職場まで行けるか
-
+    int ekicellid = -1;
+    int aimcellid = -1;
     int fare() {
         return abs(sx - tx) + abs(sy - ty);
     }
@@ -62,6 +63,7 @@ struct GridCell {
 };
 
 // ----- 2セル間の運賃・コスト計算 -----
+//これは、ネットワーク最初の二点接続を行うときのみ
 int calculateFareIncrease(const GridCell &cellA, const GridCell &cellB, vector<Person> &people) {
     int totalFare = 0;
     unordered_set<int> workB(cellB.workStationUserIds.begin(), cellB.workStationUserIds.end());
@@ -205,6 +207,8 @@ int main(){
     vector<GridCell> gridCells;
     vector<pair<int,int>> representatives = getRepresentatives(N, people, gridCells);
 
+    
+
     int saraly = 0;
     int turn = 0;
     int ekicount = 0;
@@ -216,6 +220,15 @@ int main(){
     set<int> homeindex;        // 家側接続のユーザID
     set<int> workplaceindex;   // 職場側接続のユーザID
     dsu gridcell(gridcount);
+
+    for(int i=0;i<gridcount;i++){
+        for(auto id:gridCells[i].homeStationUserIds){
+            people[id].ekicellid = i;
+        }
+        for(auto id:gridCells[i].workStationUserIds){
+            people[id].aimcellid = i;
+        }
+    }
  
     // グリッド状態（0:更地, 1:線路, 2:駅）
     vector<vector<int>> grid(N, vector<int>(N, EMPTY));
