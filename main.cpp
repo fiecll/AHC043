@@ -28,6 +28,7 @@ static const int COST_STATION = 5000;
 static const int COST_RAIL    = 100;
 static const int endtime      = 700;
 static const int cellsize     = 5;
+int gridcount = 100;
 
 
 ofstream logFile("log.txt");
@@ -39,12 +40,17 @@ struct Person {
     int tx, ty;    // 職場
     int ekix, ekiy;  // 家側最寄り駅
     int aimx, aimy;  // 職場側最寄り駅
-    bool cango = false; // 職場まで行けるか
     int ekicellid = -1;
     int aimcellid = -1;
-    int fare() {
+    int fare() const {
         return abs(sx - tx) + abs(sy - ty);
     }
+    bool cango() const {
+        if (ekicellid == -1 || aimcellid == -1) return false;
+        else if (ekicellid == aimcellid) return true;
+        else return false;
+    }
+    
     Person() { ekix = -1; ekiy = -1; aimx = -1; aimy = -1; }
 };
 
@@ -80,17 +86,15 @@ int calculateFareIncrease(const GridCell &cellA, const GridCell &cellB, vector<P
 }
 
 
-int calcSecondFareIncreaseCost(const GridCell &cellA,set<int> homeid, set<int> workid, vector<Person> &people) {
+int calcSecondFareIncreaseCost(int fromid,int toid,map<int,set<int>>&homeindex, map<int,set<int>>& workindex, vector<Person> &people) {
     int totalFare = 0;
-    unordered_set<int> workB(workid.begin(), workid.end());
-    for (int userId : cellA.homeStationUserIds) {
-        if (workB.find(userId) != workB.end() && !people[userId].cango)
-            totalFare += people[userId].fare();
+    for (auto id : homeindex[fromid]) {
+        if (workindex[toid].find(id) != workindex[toid].end() && !people[id].cango())
+            totalFare += people[id].fare();
     }
-    unordered_set<int> workA(cellA.workStationUserIds.begin(), cellA.workStationUserIds.end());
-    for (int userId : homeid) {
-        if (workA.find(userId) != workA.end() && !people[userId].cango)
-            totalFare += people[userId].fare();
+    for (auto id : homeindex[toid]) {
+        if (workindex[fromid].find(id) != workindex[fromid].end() && !people[id].cango())
+            totalFare += people[id].fare();
     }
     return totalFare;
 }
@@ -163,13 +167,10 @@ vector<pair<int,int>> getRepresentatives(int N, const vector<Person> &people, ve
     return representatives;
 }
 
-vector<int> cangolist(set<int> homeindex, set<int> workplaceindex, vector<Person> &people) {
+vector<int> cangolist(vector<Person> &people) {
     vector<int> cangolist;
-    for(auto id : homeindex) {
-        if(find(workplaceindex.begin(), workplaceindex.end(), id) != workplaceindex.end()){
-        cangolist.push_back(id);
-        people[id].cango = true;
-        }
+    for(auto &p: people) {
+        if(p.cango()) cangolist.push_back(p.id);
     }
     return cangolist;
 }
@@ -180,6 +181,21 @@ int calcsarary(vector<int> cangolist, vector<Person> &people) {
         sarary += people[id].fare();
     }
     return sarary;
+}
+
+void logPersonInfo(const vector<Person>& people) {
+    for (const auto &p : people) {
+        logFile << "ID: " << p.id 
+                << ", Home: (" << p.sx << ", " << p.sy << ")"
+                << ", Work: (" << p.tx << ", " << p.ty << ")"
+                << ", Ekix/Ekiy: (" << p.ekix << ", " << p.ekiy << ")"
+                << ", Aimx/Aimy: (" << p.aimx << ", " << p.aimy << ")"
+                << ", Ekicellid: " << p.ekicellid 
+                << ", Aimcellid: " << p.aimcellid 
+                << ", cango: " << (p.cango() ? "true" : "false")
+                << ", Fare: " << p.fare()
+                << "\n";
+    }
 }
 
 void input(){
@@ -206,20 +222,24 @@ int main(){
     // 代表セルを抽出（ここでは代表セル群とともにGridCellの情報を生成）
     vector<GridCell> gridCells;
     vector<pair<int,int>> representatives = getRepresentatives(N, people, gridCells);
-
-    
+    // 代表セルの抽出が終わった後、各セルのインデックスを初期化する
 
     int saraly = 0;
     int turn = 0;
     int ekicount = 0;
     int cellcount = N / cellsize;
-    int gridcount = int(gridCells.size());
+    //int gridcount = int(gridCells.size());
     int findpathcount = 0;
     vector<int> gridCellIndex;    // 駅を建設したグリッドセルのインデックス
     vector<bool>gridCellIndexBool(gridcount, false);
-    set<int> homeindex;        // 家側接続のユーザID
-    set<int> workplaceindex;   // 職場側接続のユーザID
+    map<int,set<int>> homeindex;        // 家側接続のユーザID
+    map<int,set<int>> workplaceindex;   // 職場側接続のユーザID
     dsu gridcell(gridcount);
+
+    for (int i = 0; i < gridcount; i++) {
+        homeindex[i] = set<int>(gridCells[i].homeStationUserIds.begin(), gridCells[i].homeStationUserIds.end());
+        workplaceindex[i] = set<int>(gridCells[i].workStationUserIds.begin(), gridCells[i].workStationUserIds.end());
+    }
 
     for(int i=0;i<gridcount;i++){
         for(auto id:gridCells[i].homeStationUserIds){
@@ -258,9 +278,62 @@ int main(){
     int funds = K;
     vector<string> actions;
     actions.reserve(T);
+
+    auto logUnionFindState = [&]()-> void{
+        logFile << "DSU state:" << "\n";
+        int n = gridcount;
+        for (int i = 0; i < n; i++){
+            logFile << "Cell " << i << ": leader = " << gridcell.leader(i) << endl;
+        }
+        logFile << "HomeIndex:" << "\n";
+        for (auto &p : homeindex) {
+        logFile << "Leader " << p.first << ": ";
+        for (int id : p.second) logFile << id << " ";
+        logFile << "\n";
+        }
+        logFile << "WorkIndex:" << "\n";
+        for (auto &p : workplaceindex) {
+        logFile << "Leader " << p.first << ": ";
+        for (int id : p.second) logFile << id << " ";
+        logFile << "\n";
+        }
+    };
+
+    auto mergeGroups = [&](int a, int b) -> void {
+        // DSU の merge を行い、リーダー L を取得する
+        int L = gridcell.merge(a, b);
+        // a, b の各グループのユーザー集合を L に統合する
+        // ※ここでは、homeindex と workplaceindex が vector<unordered_set<int>> 型の場合の例
+        homeindex[L].insert(all(homeindex[a]));
+        homeindex[L].insert(all(homeindex[b]));
+        workplaceindex[L].insert(all(workplaceindex[a]));
+        workplaceindex[L].insert(all(workplaceindex[b]));
+        if(a != L) {
+            homeindex.erase(a);
+            workplaceindex.erase(a);
+        }
+        if(b != L) {
+            homeindex.erase(b);
+            workplaceindex.erase(b);
+        }
+    };
+
+    // DSU の最新のリーダーを各 Person に反映する
+    auto updatePersons = [&]() -> void {
+        for (auto &p : people) {
+            if (p.ekicellid != -1) {
+                p.ekicellid = gridcell.leader(p.ekicellid);
+            }
+            if (p.aimcellid != -1) {
+                p.aimcellid = gridcell.leader(p.aimcellid);
+            }
+        }
+    };
+
+    
  
     // ----- 駅・線路建設用ラムダ関数 -----
-    auto buildStation = [&](int r, int c, vector<int> personshome, vector<int> personwork) -> bool {
+    auto buildStation = [&](int r, int c, vector<int> personshome, vector<int> personwork, int cellid, int fromid) -> bool {
         if ((int)actions.size() >= T) return false;
         logFile << "turn :" << turn << ' ' << saraly << " funds: " << funds << endl;
         if (funds < COST_STATION) {
@@ -276,19 +349,26 @@ int main(){
         grid[r][c] = STATION;
         funds -= COST_STATION;
 
+        if(fromid != -1) {
+            gridcell.merge(cellid, fromid);
+            mergeGroups(cellid, fromid);
+            updatePersons();
+        }
+
         gridVersion++;
         for (auto &p : personshome) {
             people[p].ekix = r;
             people[p].ekiy = c;
+            people[p].ekicellid = gridcell.leader(cellid);
         }
         for (auto &p : personwork) {
             people[p].aimx = r;
             people[p].aimy = c;
+            people[p].aimcellid = gridcell.leader(cellid);
         }
-        vector<int> cangoList = cangolist(homeindex, workplaceindex, people);
-        for(auto c:cangoList){
-            people[c].cango = true;
-        }
+        logUnionFindState();
+        vector<int> cangoList = cangolist(people);
+
         actions.push_back("0 " + to_string(r) + " " + to_string(c));
         turn++;
         ekicount++;
@@ -357,21 +437,7 @@ int main(){
         logFile << "findpathcount" << findpathcount << endl;
         return path;
     };
-//       // gridcount は候補セルの総数とする
-// vector<vector<vector<P>>> pathiddict(gridcount, vector<vector<P>>(gridcount));
-// vector<vector<bool>> pathdict(gridcount, vector<bool>(gridcount, false));
 
-// auto findPathcell = [&] (int startcellid, int endcellid) -> vector<pair<int,int>> {
-//     if(pathdict[startcellid][endcellid]) return pathiddict[startcellid][endcellid];
-//     int sx = gridCells[startcellid].x;
-//     int sy = gridCells[startcellid].y;
-//     int tx = gridCells[endcellid].x;
-//     int ty = gridCells[endcellid].y;
-//     vector<pair<int,int>> path = findPath(sx, sy, tx, ty);
-//     pathdict[startcellid][endcellid] = true;
-//     pathiddict[startcellid][endcellid] = path;
-//     return path;
-// };
 
     struct CellPairKey {
         int i, j;
@@ -428,11 +494,13 @@ int main(){
     auto buildinitpair = [&]() -> void{
         pair<int,int> bestconnect = {-1, -1};
     int bestsarary = 0;
+    logPersonInfo(people);
     for (int i = 0; i < gridcount; i++){
         if(gridCellIndexBool[i]) continue;
         for (int j = i+1; j < gridcount; j++){
             if(gridCellIndexBool[j]) continue;
             int calcFare = calculateFareIncrease(gridCells[i], gridCells[j], people);
+            logFile << "id: " << i << ' ' << j << ' ' << calcFare << endl;
             if (calcFare > bestsarary && funds >= calcConstCost(i,j)){
                 bestsarary = calcFare;
                 bestconnect = {i, j};
@@ -455,7 +523,7 @@ int main(){
     while (!finish3) {
         if (turn >= endtime) break;
         if (!buildStation(sx0, sy0, gridCells[bestconnect.first].homeStationUserIds,
-                          gridCells[bestconnect.first].workStationUserIds)) {
+                          gridCells[bestconnect.first].workStationUserIds, bestconnect.first, -1)) {
             // 失敗時はループ継続
         } else {
             finish3 = true;
@@ -491,20 +559,21 @@ int main(){
     bool finish4 = false;
     while (!finish4) {
         if (!buildStation(tx0, ty0, gridCells[bestconnect.second].homeStationUserIds,
-                          gridCells[bestconnect.second].workStationUserIds)) {
+                          gridCells[bestconnect.second].workStationUserIds, bestconnect.second, bestconnect.first)) {
             // 失敗時ループ継続
         } else {
             finish4 = true;
             gridCells[bestconnect.second].ekiconstructed = true;
+            int cellid = gridcell.leader(bestconnect.first);
             for (auto id : gridCells[bestconnect.second].workStationUserIds)
-                workplaceindex.insert(id);
+                workplaceindex[cellid].insert(id);
             for (auto id : gridCells[bestconnect.first].workStationUserIds)
-                workplaceindex.insert(id);
+                workplaceindex[cellid].insert(id);
             for (auto id : gridCells[bestconnect.second].homeStationUserIds)
-                homeindex.insert(id);
+                homeindex[cellid].insert(id);
             for (auto id : gridCells[bestconnect.first].homeStationUserIds)
-                homeindex.insert(id);
-            saraly = calcsarary(cangolist(homeindex, workplaceindex,people), people);
+                homeindex[cellid].insert(id);
+            saraly = calcsarary(cangolist(people), people);
             gridcell.merge(bestconnect.first, bestconnect.second);
         }
         funds += saraly;
@@ -518,13 +587,14 @@ int main(){
         bool finish5 = false;
     while (!finish5) {
         //logFile << "cangolist" << endl;
+        logPersonInfo(people);
         auto current_time = chrono::steady_clock::now();
         int elapsed_ms = chrono::duration_cast<chrono::milliseconds>(current_time - start_time).count();
         if (elapsed_ms > TIME_LIMIT_MS) {
             logFile << "Timeout in finish5 loop at turn: " << turn << "\n";
             break;
         }
-        for(auto id : cangolist(homeindex, workplaceindex, people)) {
+        for(auto id : cangolist(people)) {
             //logFile << id << ' '<<  endl;
         }
         //logFile << "people" << endl;
@@ -539,12 +609,10 @@ int main(){
                 if (i == id) continue;
                 if (gridCellIndexBool[i]) continue;
                 //if(grid)
-                int calcFare = calcSecondFareIncreaseCost(gridCells[i], homeindex, workplaceindex, people);
-                // if (calcFare > bestsarary2 && funds + saraly * (endtime - turn) >= calcConstCost(gridCells[id], gridCells[i])- COST_STATION
-                //     && grid[gridCells[i].x][gridCells[i].y] == EMPTY) {
-                //     bestsarary2 = calcFare;
-                //     bestconnect2 = i;
-                // }
+                int fromid = gridcell.leader(id);
+                int toid = gridcell.leader(i);
+                int calcFare = calcSecondFareIncreaseCost(fromid,toid,homeindex,workplaceindex,people);
+                logFile << "id: " << id << ' ' << id << ' ' <<i << ' ' <<  calcFare << endl;
                 // 残りターンに応じて寛容度を調整
             // 残りターンが少ないほど大きくして、必要資金をさらに下げる
             double toleranceFactor = 1.5 - (double)(turn) / endtime;
@@ -606,18 +674,18 @@ int main(){
             bool finish6 = false;
             while (!finish6) {
                 if (!buildStation(tx2, ty2, gridCells[bestconnect2].homeStationUserIds,
-                                  gridCells[bestconnect2].workStationUserIds)) {
+                                  gridCells[bestconnect2].workStationUserIds, bestconnect2, startindex)) {
                     // 失敗時ループ継続
                 } else {
                     finish6 = true;
                     gridCells[bestconnect2].ekiconstructed = true;
                     for (auto id : gridCells[bestconnect2].workStationUserIds)
-                        workplaceindex.insert(id);
+                        workplaceindex[gridcell.leader(startindex)].insert(id);
                     for (auto id : gridCells[bestconnect2].homeStationUserIds)
-                        homeindex.insert(id);
+                        homeindex[gridcell.leader(startindex)].insert(id);
                     gridCellIndex.push_back(bestconnect2);
                     gridCellIndexBool[bestconnect2] = true;
-                    saraly = calcsarary(cangolist(homeindex, workplaceindex, people), people);
+                    saraly = calcsarary(cangolist(people), people);
                 }
                 funds += saraly;
                 if ((int)actions.size() >= T)
