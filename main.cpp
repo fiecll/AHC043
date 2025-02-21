@@ -27,8 +27,8 @@ static const int STATION = 2;   // 駅
 static const int COST_STATION = 5000;
 static const int COST_RAIL    = 100;
 static const int endtime      = 700;
-static const int cellsize     = 5;
-int gridcount = 100;
+static const int cellsize     = 3;
+//int gridcount = (50/cellsize) * (50/cellsize);
 
 
 ofstream logFile("log.txt");
@@ -67,6 +67,26 @@ struct GridCell {
     vector<int> workStationUserIds;
     bool ekiconstructed = false;
 };
+
+struct SimulationState {
+    vector<Person> people;
+    vector<GridCell> gridCells;
+    int funds;
+    vector<vector<int>> grid; // グリッド状態
+    dsu gridcell ;
+    int turn = 0;
+    int ekicount = 0;
+    int gridVersion = 0;
+    vector<int> gridCellIndex;    // 駅を建設したグリッドセルのインデックス
+    vector<bool> gridCellIndexBool; // 駅を建設したグリッドセルのインデックス
+    map<int,set<int>> homeindex;        // 家側接続のユーザID
+    map<int,set<int>> workplaceindex;   // 職場側接続のユーザID
+};
+
+SimulationState initialState;
+
+
+
 
 // ----- 2セル間の運賃・コスト計算 -----
 //これは、ネットワーク最初の二点接続を行うときのみ
@@ -121,7 +141,7 @@ inline int manhattan(int r1, int c1, int r2, int c2) {
 // ----- 代表セルの抽出 -----
 // 各ブロック内で、マンハッタン距離2以内の家と職場数が最大のセルを代表とする
 vector<pair<int,int>> getRepresentatives(int N, const vector<Person> &people, vector<GridCell> &gridCells) {
-    int blockSize = 5;
+    int blockSize = cellsize;
     int numBlocks = N / blockSize;
     vector<pair<int,int>> representatives;
 
@@ -167,6 +187,79 @@ vector<pair<int,int>> getRepresentatives(int N, const vector<Person> &people, ve
     return representatives;
 }
 
+vector<pair<int, int>> getRepresentatives2(int N, const vector<Person>& people, vector<GridCell>& gridCells) {
+    int blockSize = cellsize;
+    int numBlocks = N / blockSize;
+    vector<pair<int, int>> representatives;
+
+    for (int bi = 0; bi < numBlocks; bi++) {
+        for (int bj = 0; bj < numBlocks; bj++) {
+            int startR = bi * blockSize;
+            int endR = startR + blockSize - 1;
+            int startC = bj * blockSize;
+            int endC = startC + blockSize - 1;
+
+            int bestCount = -1, secondBestCount = -1;
+            pair<int, int> bestCell = {-1, -1}, secondBestCell = {-1, -1};
+            vector<int> bestHomeIds, bestWorkIds, secondBestHomeIds, secondBestWorkIds;
+
+            // 各ブロック内の全セルを調べる
+            for (int r = startR; r <= endR; r++) {
+                for (int c = startC; c <= endC; c++) {
+                    int cnt = 0;
+                    vector<int> homeIds, workIds;
+
+                    for (const auto& p : people) {
+                        if (manhattan(r, c, p.sx, p.sy) <= 2) {
+                            cnt++;
+                            homeIds.push_back(p.id);
+                        }
+                        if (manhattan(r, c, p.tx, p.ty) <= 2) {
+                            cnt++;
+                            workIds.push_back(p.id);
+                        }
+                    }
+
+                    if (cnt > bestCount) {
+                        // 以前の bestCell を secondBestCell に更新
+                        secondBestCount = bestCount;
+                        secondBestCell = bestCell;
+                        secondBestHomeIds = bestHomeIds;
+                        secondBestWorkIds = bestWorkIds;
+
+                        // 新しい bestCell を設定
+                        bestCount = cnt;
+                        bestCell = {r, c};
+                        bestHomeIds = homeIds;
+                        bestWorkIds = workIds;
+                    } 
+                    // bestCell とは異なる場所で、2番目に良いものを選ぶ
+                    else if (cnt > secondBestCount) {
+                        secondBestCount = cnt;
+                        secondBestCell = {r, c};
+                        secondBestHomeIds = homeIds;
+                        secondBestWorkIds = workIds;
+                    }
+                }
+            }
+
+            // 代表点1（必須）
+            if (bestCell.first != -1) {
+                representatives.push_back(bestCell);
+                gridCells.push_back({bestCell.first, bestCell.second, bestHomeIds, bestWorkIds});
+            }
+
+            // 代表点2（オプション: bestCell と異なる場合のみ追加）
+            if (secondBestCell.first != -1 && secondBestCell != bestCell) {
+                representatives.push_back(secondBestCell);
+                gridCells.push_back({secondBestCell.first, secondBestCell.second, secondBestHomeIds, secondBestWorkIds});
+            }
+        }
+    }
+    return representatives;
+}
+
+
 vector<int> cangolist(vector<Person> &people) {
     vector<int> cangolist;
     for(auto &p: people) {
@@ -208,7 +301,6 @@ void input(){
     }
 }
  
-// ----- メイン -----
 int main(){
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
@@ -218,27 +310,35 @@ int main(){
     auto start_time = chrono::steady_clock::now();
     const int TIME_LIMIT_MS = 2700; // とりあえず妥協
  
- 
-    // 代表セルを抽出（ここでは代表セル群とともにGridCellの情報を生成）
     vector<GridCell> gridCells;
-    vector<pair<int,int>> representatives = getRepresentatives(N, people, gridCells);
-    // 代表セルの抽出が終わった後、各セルのインデックスを初期化する
+    //vector<pair<int,int>> representatives = getRepresentatives(N, people, gridCells);
+    vector<pair<int,int>> representatives = getRepresentatives2(N, people, gridCells);
 
     int saraly = 0;
     int turn = 0;
     int ekicount = 0;
     int cellcount = N / cellsize;
-    //int gridcount = int(gridCells.size());
+    int gridcount = int(gridCells.size());
     int findpathcount = 0;
     vector<int> gridCellIndex;    // 駅を建設したグリッドセルのインデックス
     vector<bool>gridCellIndexBool(gridcount, false);
     map<int,set<int>> homeindex;        // 家側接続のユーザID
     map<int,set<int>> workplaceindex;   // 職場側接続のユーザID
+    vector<int> stationorder;
     dsu gridcell(gridcount);
 
-    for (int i = 0; i < gridcount; i++) {
-        homeindex[i] = set<int>(gridCells[i].homeStationUserIds.begin(), gridCells[i].homeStationUserIds.end());
-        workplaceindex[i] = set<int>(gridCells[i].workStationUserIds.begin(), gridCells[i].workStationUserIds.end());
+    // for (int i = 0; i < gridcount; i++) {
+    //     homeindex[i] = set<int>(gridCells[i].homeStationUserIds.begin(), gridCells[i].homeStationUserIds.end());
+    //     workplaceindex[i] = set<int>(gridCells[i].workStationUserIds.begin(), gridCells[i].workStationUserIds.end());
+    // }
+
+    for (int i = 0; i < gridCells.size(); i++) {
+        for (int id : gridCells[i].homeStationUserIds) {
+            homeindex[i].insert(id);
+        }
+        for (int id : gridCells[i].workStationUserIds) {
+            workplaceindex[i].insert(id);
+        }
     }
 
     for(int i=0;i<gridcount;i++){
@@ -277,7 +377,41 @@ int main(){
     // 資金とアクションの初期化
     int funds = K;
     vector<string> actions;
+    vector<string> bestaction;
     actions.reserve(T);
+    bool finishmakestation = false;
+
+    //初期状態保存
+    auto saveInitialState = [&]() -> void {
+        initialState.people = people;
+        initialState.gridCells = gridCells;
+        initialState.funds = funds;
+        initialState.grid = grid;
+        initialState.gridcell = gridcell;
+        initialState.turn = turn;
+        initialState.ekicount = ekicount;
+        initialState.gridVersion = gridVersion;
+        initialState.gridCellIndex = gridCellIndex;
+        initialState.gridCellIndexBool = gridCellIndexBool;
+        initialState.homeindex = homeindex;
+        initialState.workplaceindex = workplaceindex;
+    };
+
+    auto resetSimulationState = [&]() -> void {
+        people = initialState.people;
+        gridCells = initialState.gridCells;
+        funds = initialState.funds;
+        grid = initialState.grid;
+        // DSU は各セルが独立している状態に再構築
+        gridcell = initialState.gridcell;
+        turn = initialState.turn;
+        ekicount = initialState.ekicount;
+        gridVersion = initialState.gridVersion;
+        gridCellIndex = initialState.gridCellIndex;
+        gridCellIndexBool = vector<bool>(gridcount, false);
+        homeindex = initialState.homeindex;
+        workplaceindex = initialState.workplaceindex;
+    };
 
     auto logUnionFindState = [&]()-> void{
         logFile << "DSU state:" << "\n";
@@ -303,7 +437,6 @@ int main(){
         // DSU の merge を行い、リーダー L を取得する
         int L = gridcell.merge(a, b);
         // a, b の各グループのユーザー集合を L に統合する
-        // ※ここでは、homeindex と workplaceindex が vector<unordered_set<int>> 型の場合の例
         homeindex[L].insert(all(homeindex[a]));
         homeindex[L].insert(all(homeindex[b]));
         workplaceindex[L].insert(all(workplaceindex[a]));
@@ -330,8 +463,6 @@ int main(){
         }
     };
 
-    
- 
     // ----- 駅・線路建設用ラムダ関数 -----
     auto buildStation = [&](int r, int c, vector<int> personshome, vector<int> personwork, int cellid, int fromid) -> bool {
         if ((int)actions.size() >= T) return false;
@@ -366,12 +497,14 @@ int main(){
             people[p].aimy = c;
             people[p].aimcellid = gridcell.leader(cellid);
         }
-        logUnionFindState();
+        //logUnionFindState();
         vector<int> cangoList = cangolist(people);
 
         actions.push_back("0 " + to_string(r) + " " + to_string(c));
         turn++;
+        stationorder.push_back(cellid);
         ekicount++;
+
         return true;
     };
  
@@ -438,7 +571,6 @@ int main(){
         return path;
     };
 
-
     struct CellPairKey {
         int i, j;
         bool operator==(const CellPairKey &other) const {
@@ -459,7 +591,6 @@ int main(){
     
     unordered_map<CellPairKey, CachedPath, CellPairHash> pathCache;
     
-    
     auto findPathcell = [&] (int startcellid, int endcellid) -> vector<pair<int,int>> {
         CellPairKey key = {startcellid, endcellid};
         if (pathCache.find(key) != pathCache.end()) {
@@ -467,48 +598,51 @@ int main(){
             if (pathCache[key].version == gridVersion) {
                 return pathCache[key].path;
             }
-        }
-        
+        }    
         // 一致しない場合、経路を再計算
         int sx = gridCells[startcellid].x;
         int sy = gridCells[startcellid].y;
         int tx = gridCells[endcellid].x;
         int ty = gridCells[endcellid].y;
         vector<pair<int,int>> path = findPath(sx, sy, tx, ty);
-        
+ 
         // キャッシュを更新（新しいバージョンをセット）
         pathCache[key] = {gridVersion, path};
         return path;
     };
     
-    
-
-
     //駅建設コスト
     auto calcConstCost = [&](int cellaid, int cellbid) -> int {
         vector<pair<int,int>> path = findPathcell(cellaid, cellbid);
         return COST_STATION * 2 + COST_RAIL * (int)path.size();
     };
 
-
+    //ネットワーク最初の二つの駅を建設
     auto buildinitpair = [&]() -> void{
         pair<int,int> bestconnect = {-1, -1};
     int bestsarary = 0;
-    logPersonInfo(people);
+    //logPersonInfo(people);
     for (int i = 0; i < gridcount; i++){
         if(gridCellIndexBool[i]) continue;
         for (int j = i+1; j < gridcount; j++){
             if(gridCellIndexBool[j]) continue;
+            if (abs(gridCells[i].x - gridCells[j].x) < cellsize && abs(gridCells[i].y - gridCells[j].y) < cellsize) {
+                continue;
+            }
             int calcFare = calculateFareIncrease(gridCells[i], gridCells[j], people);
-            logFile << "id: " << i << ' ' << j << ' ' << calcFare << endl;
-            if (calcFare > bestsarary && funds >= calcConstCost(i,j)){
+            //logFile << "id: " << i << ' ' << j << ' ' << calcFare << endl;
+            if (calcFare > bestsarary && (gridCellIndex.size() != 0 || funds >= calcConstCost(i,j))){
+                if(calcConstCost(i,j) > calcFare * (T-turn)) continue;
                 bestsarary = calcFare;
                 bestconnect = {i, j};
             }
         }
     }
-    if(bestconnect == make_pair(-1, -1)) return;
-    logFile << "bestsarary" << bestsarary << endl;
+    if(bestconnect == make_pair(-1, -1)) {
+        finishmakestation = true;
+        return;
+    }
+    logFile <<"id:" << bestconnect.first << ' ' << bestconnect.second <<"bestsarary" << bestsarary << endl;
     gridCellIndex.push_back(bestconnect.first);
     gridCellIndex.push_back(bestconnect.second);
     gridCellIndexBool[bestconnect.first] = true;
@@ -524,7 +658,6 @@ int main(){
         if (turn >= endtime) break;
         if (!buildStation(sx0, sy0, gridCells[bestconnect.first].homeStationUserIds,
                           gridCells[bestconnect.first].workStationUserIds, bestconnect.first, -1)) {
-            // 失敗時はループ継続
         } else {
             finish3 = true;
             gridCells[bestconnect.first].ekiconstructed = true;
@@ -560,7 +693,6 @@ int main(){
     while (!finish4) {
         if (!buildStation(tx0, ty0, gridCells[bestconnect.second].homeStationUserIds,
                           gridCells[bestconnect.second].workStationUserIds, bestconnect.second, bestconnect.first)) {
-            // 失敗時ループ継続
         } else {
             finish4 = true;
             gridCells[bestconnect.second].ekiconstructed = true;
@@ -586,21 +718,13 @@ int main(){
     auto buildnetwork = [&]() ->void{
         bool finish5 = false;
     while (!finish5) {
-        //logFile << "cangolist" << endl;
-        logPersonInfo(people);
+        //logPersonInfo(people);
         auto current_time = chrono::steady_clock::now();
         int elapsed_ms = chrono::duration_cast<chrono::milliseconds>(current_time - start_time).count();
         if (elapsed_ms > TIME_LIMIT_MS) {
             logFile << "Timeout in finish5 loop at turn: " << turn << "\n";
             break;
         }
-        for(auto id : cangolist(people)) {
-            //logFile << id << ' '<<  endl;
-        }
-        //logFile << "people" << endl;
-        // for(auto &p: people) {
-        //     if(p.cango) logFile << p.id << ' ' << endl;
-        // }
         int bestsarary2 = 0;
         int bestconnect2 = -1;
         
@@ -608,11 +732,14 @@ int main(){
             for (int i = 0; i < gridcount; i++){
                 if (i == id) continue;
                 if (gridCellIndexBool[i]) continue;
+                if (abs(gridCells[id].x - gridCells[i].x) < cellsize && abs(gridCells[id].y - gridCells[i].y) < cellsize) {
+                    continue;
+                }
                 //if(grid)
                 int fromid = gridcell.leader(id);
                 int toid = gridcell.leader(i);
                 int calcFare = calcSecondFareIncreaseCost(fromid,toid,homeindex,workplaceindex,people);
-                logFile << "id: " << id << ' ' << id << ' ' <<i << ' ' <<  calcFare << endl;
+                logFile << "id: " << id << ' ' <<i << ' ' <<  calcFare << endl;
                 // 残りターンに応じて寛容度を調整
             // 残りターンが少ないほど大きくして、必要資金をさらに下げる
             double toleranceFactor = 1.5 - (double)(turn) / endtime;
@@ -622,8 +749,6 @@ int main(){
                 bestsarary2 = calcFare;
                 bestconnect2 = i;
             }
-            
-
             }
         }
         logFile << "nextstation" << bestconnect2 << endl;
@@ -698,26 +823,133 @@ int main(){
     }
     };
 
+    auto buildbeamnetwork = [&]() -> void {
+        const int BEAM_WIDTH = 5; // ビーム幅の設定（例えば5）
+        bool finish5 = false;
+        
+        while (!finish5) {
+            auto current_time = chrono::steady_clock::now();
+            int elapsed_ms = chrono::duration_cast<chrono::milliseconds>(current_time - start_time).count();
+            if (elapsed_ms > TIME_LIMIT_MS) {
+                logFile << "Timeout in finish5 loop at turn: " << turn << "\n";
+                break;
+            }
+    
+            // すべての候補駅を収集
+            vector<pair<int, int>> candidateStations; // (運賃増加, 駅ID)
+            for (auto id : gridCellIndex) {
+                for (int i = 0; i < gridcount; i++) {
+                    if (i == id || gridCellIndexBool[i]) continue;
+    
+                    int fromid = gridcell.leader(id);
+                    int toid = gridcell.leader(i);
+                    int calcFare = calcSecondFareIncreaseCost(fromid, toid, homeindex, workplaceindex, people);
+                    
+                    // コスト条件を考慮
+                    double toleranceFactor = 1.5 - (double)(turn) / endtime;
+                    if (funds + saraly * (endtime - turn) >= calcConstCost(id, i) - COST_STATION * toleranceFactor) {
+                        candidateStations.push_back({calcFare, i});
+                    }
+                }
+            }
+    
+            // 運賃増加が大きい上位 `BEAM_WIDTH` 件を選択
+            sort(candidateStations.rbegin(), candidateStations.rend()); // 降順ソート
+            candidateStations.resize(min((int)candidateStations.size(), BEAM_WIDTH));
+    
+            // ビームサーチの試行
+            int bestChoice = -1;
+            int bestScore = -1;
+            vector<string> bestActions;
+            saveInitialState();
+            for (auto [fareIncrease, stationID] : candidateStations) {
+                resetSimulationState();
+                
+                int startindex;
+                int minCost = 1e9;
+                for (auto gridindex : gridCellIndex) {
+                    int tempCost = calcConstCost(gridindex, stationID) - COST_STATION;
+                    if (tempCost < minCost && !findPathcell(gridindex, stationID).empty()) {
+                        minCost = tempCost;
+                        startindex = gridindex;
+                    }
+                }
+    
+                // 経路探索
+                auto path = findPathcell(startindex, stationID);
+                if (path.empty()) continue;
+    
+                // シミュレーション実行
+                vector<string> tempActions = actions;
+                int tempFunds = funds;
+
+                // 評価
+                int newScore = funds;
+                if (newScore > bestScore) {
+                    bestScore = newScore;
+                    bestChoice = stationID;
+                    bestActions = actions;
+                }
+    
+                actions = tempActions; // シミュレーション前の状態に戻す
+                funds = tempFunds;
+            }
+    
+            // 最適なものを選んで実行
+            if (bestChoice == -1) break;
+            actions = bestActions;
+            gridCellIndex.push_back(bestChoice);
+            gridCellIndexBool[bestChoice] = true;
+    
+            // 建設完了処理
+            gridCells[bestChoice].ekiconstructed = true;
+            for (auto id : gridCells[bestChoice].workStationUserIds)
+                workplaceindex[gridcell.leader(bestChoice)].insert(id);
+            for (auto id : gridCells[bestChoice].homeStationUserIds)
+                homeindex[gridcell.leader(bestChoice)].insert(id);
+            saraly = calcsarary(cangolist(people), people);
+    
+            if ((int)actions.size() >= T) finish5 = true;
+        }
+    };
+    
+    
+
+    saveInitialState();
+    int bestfund = 0;
+    
+
     // 回数を無理やりしているので、時間が余裕があれば修正する
-    while(gridCellIndex.size() < 3) {
+    //for(int i=1;i>0;i++){
+         actions.clear();
+         resetSimulationState();
+         //logPersonInfo(people);
+     while(gridCellIndex.size() < 8) {
         buildinitpair();
         buildnetwork();
-        auto current_time = chrono::steady_clock::now();
-        int elapsed_ms = chrono::duration_cast<chrono::milliseconds>(current_time - start_time).count();
-        if (elapsed_ms > TIME_LIMIT_MS) {
-            logFile << "Timeout in finish5 loop at turn: " << turn << "\n";
-            break;
-        }
-    }
 
+        if(finishmakestation) break;
+        // auto current_time = chrono::steady_clock::now();
+        // int elapsed_ms = chrono::duration_cast<chrono::milliseconds>(current_time - start_time).count();
+        // if (elapsed_ms > TIME_LIMIT_MS) {
+        //     logFile << "Timeout in finish5 loop at turn: " << turn << "\n";
+        //     break;
+        // }
+    }
     // ----- 後続アクション：ターン上限まで待機 ("-1") -----
     while ((int)actions.size() < T) {
         actions.push_back("-1");
     }
- 
+    if(funds > bestfund){
+        bestfund = funds;
+        bestaction = actions;
+        initialState = initialState;
+    }
+    //}
+    //}
     // 出力
     for (int i = 0; i < T; i++){
-        cout << actions[i] << "\n";
+        cout << bestaction[i] << "\n";
     }
 
     return 0;
