@@ -311,8 +311,8 @@ int main(){
     const int TIME_LIMIT_MS = 2700; // とりあえず妥協
  
     vector<GridCell> gridCells;
-    //vector<pair<int,int>> representatives = getRepresentatives(N, people, gridCells);
-    vector<pair<int,int>> representatives = getRepresentatives2(N, people, gridCells);
+    vector<pair<int,int>> representatives = getRepresentatives(N, people, gridCells);
+    //vector<pair<int,int>> representatives = getRepresentatives2(N, people, gridCells);
 
     int saraly = 0;
     int turn = 0;
